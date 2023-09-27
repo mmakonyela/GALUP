@@ -26,6 +26,11 @@
 | 2  | population_gha_2018-10-01.tif    | raster      | tiff    | Population of Ghana in 2018     |
 | 3  | healthsites.shp                  | vector      | point   | Health facilities in Ghana      |
 | 4  | GHARoads2020PrimarySecondary.shp | vector      | line    | Primary and secondary roads in Ghana |
+| 5  |                                  | vector      | polygon | Districts of Botswana|
+| 6  |||| Population of Botswana in 2022|
+| 7  |||| Health facilities in Botswana | 
+| 8  |||| Tourism facilities in Botswana |
+| 9  |||| Primary and secondary roads in Botswana |
 
 ## 3. Working with QGIS 3.10.8
 
