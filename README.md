@@ -1,4 +1,4 @@
-# Welcome to Chobe Open-LUCIS training
+# Welcome to Chobe Open-LUCIS (COL) training
 
 [![pulusat-version](https://img.shields.io/pypi/v/pylusat?color=br&label=pylusat%20version)](https://github.com/chjch/pylusat)
 ![license](https://img.shields.io/github/license/servir-wa/galup)
@@ -10,7 +10,8 @@
 
 The Chobe District is one of the most rich and diverse regions with natural resources, ethnicity, and culture in Botswana. Due to the abundance of resources in the district, alongside local communities who are highly dependent in natural resources including forests, rivers, agricultural land and wildlife, Chobe is characterised by high prevalence of land-use conflict which ultimately lead to the prevailing human-wildlife conflict. These conflicts are mainly due to competition between people-and-people and people-and-wildlife for limited land and other resources like water and grazing areas.
 
-Working in close collaboration with the Chobe Land Board (CLB) and the District Land Use Planning Unit (DLUPU), the project aims to build capacity with local stakeholders and enhance informed decision-making in land management and sustainability in land use to cater for the needs of the District. 
+Working in close collaboration with the Chobe Land Board (CLB) and the District Land Use Planning Unit (DLUPU), the Chobe Open-LUCIS (COL) project aims to build capacity with local stakeholders and enhance informed decision-making in land management and sustainability in land use to cater for the needs of the District. 
+
 In Ghana, farmlands and cities are expanding rapidly into the savannas,
 woodlands and forests.
 
@@ -26,16 +27,16 @@ use planning framework for continued planning.
   <img src="img/timg/galup_intro.png" alt="GALUP intro" width="800">
 </a><br>
 
-## GALUP Trainings
+## COL Training
 
-One of GALUP’s objectives is to help build local capacity in applying tools
+One of the COL project objectives is to help build local capacity in applying tools
 empowered by Remote Sensing (RS) and Geographic Information System (GIS)
-technologies to inform and ensure sustainable land use practices.
+technologies to inform and ensure sustainable land use practices in Chobe.
 
-### [Workshop 1 - Land-Use Suitability Analysis with QGIS Tools](https://github.com/SERVIR-WA/GALUP/tree/master/training/1_lu/modules)
+### [COL Workshop - Land-Use Suitability Analysis with QGIS Tools](https://github.com/SERVIR-WA/GALUP/tree/master/training/1_lu/modules)
 
 > **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;
-> **Date**: June 1 - August 10, 2021.<br>
+> **Date**: November 5 - December 15, 2023.<br>
 > **Co-authors**: Silas Achidago and Lynn Fanikiso.
 
 1. [Module 1 - Software and Data Preparation](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md)
