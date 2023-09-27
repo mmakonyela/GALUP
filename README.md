@@ -8,8 +8,12 @@
 
 ## Introduction
 
+The Chobe District is one of the most rich and diverse regions with natural resources, ethnicity, and culture in Botswana. Due to the abundance of resources in the district, alongside local communities who are highly dependent in natural resources including forests, rivers, agricultural land and wildlife, Chobe is characterised by high prevalence of land-use conflict which ultimately lead to the prevailing human-wildlife conflict. These conflicts are mainly due to competition between people-and-people and people-and-wildlife for limited land and other resources like water and grazing areas.
+
+Working in close collaboration with the Chobe Land Board (CLB) and the District Land Use Planning Unit (DLUPU), the project aims to build capacity with local stakeholders and enhance informed decision-making in land management and sustainability in land use to cater for the needs of the District. 
 In Ghana, farmlands and cities are expanding rapidly into the savannas,
 woodlands and forests.
+
 The Ghana Land Use Project ([GALUP](http://galup.cersgis.org/)) project will
 enhance the current operational planning framework and building capacity for
 effective land use planning in Ghana.
