@@ -1,4 +1,4 @@
-# Welcome to GALUP
+# Welcome to Chobe Open-LUCIS training
 
 [![pulusat-version](https://img.shields.io/pypi/v/pylusat?color=br&label=pylusat%20version)](https://github.com/chjch/pylusat)
 ![license](https://img.shields.io/github/license/servir-wa/galup)
