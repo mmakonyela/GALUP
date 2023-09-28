@@ -38,7 +38,7 @@ technologies to inform and ensure sustainable land use practices in Chobe.
 1. [LUCIS-OPEN Tools for QGIS](https://github.com/SERVIR-WA/GALUP/wiki/Tools)
 2. [Agriculture Models](https://github.com/SERVIR-WA/GALUP/wiki/models_ag)
 
-## GALUP Partners
+## COL Project Partners
 
 We appreciate all the support from our partners below.<br>
 
@@ -48,6 +48,8 @@ We appreciate all the support from our partners below.<br>
     <td vlign="center" style="border: 0;"><img src="img/logo/cersgis-logo.png" width="125"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/university-of-ghana-logo-1024x948.png" width="105"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/LUSPA_Logo.png" width="100"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/![wildcru](https://github.com/mogaetkpp/GALUP/assets/124671553/870a5bc4-b50d-4506-a3b9-57e06e755e64)" width="150"></td>
+
   </tr>
 </table>
 <br>
