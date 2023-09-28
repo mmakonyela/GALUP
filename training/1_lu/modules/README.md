@@ -1,10 +1,10 @@
-# Workshop 1: Land-Use Suitability Analysis with QGIS Tools
+# COL Workshop: Land-Use Suitability Analysis with QGIS Tools
 
 > **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;**Date**: June 1 - August 10, 2021
      
 ### Goal
 
-The first GALUP workshop aims at laying a foundation of core
+This workshop aims at laying a foundation of core
 concepts and techniques used in land-use suitability analysis, of which the
 output will help inform land-use decision making.
 Using QGIS, an open-source Geographic Information System (GIS) software
@@ -24,7 +24,7 @@ particular land-use purpose.
 
 ### About the Land Use Planning Framework
 
-The planning framework GALUP proposed is based on the Land-Use Identification
+The planning framework COL proposed is based on the Land-Use Identification
 Strategy (LUCIS) developed by two professors, Margaret Carr and Paul Zwick, at
 the University of Florida. LUCIS, at its core, is a GIS-based land-use
 suitability modeling framework. LUCIS models were originally developed using
@@ -48,9 +48,9 @@ an open-source GIS software application.
 
 | Date/week               | Time           | Type         | Agenda                                     |
 |-------------------------|----------------|--------------|--------------------------------------------|
-| 2021.06.01              | 2.5 hours      | synchronous  | Kick-off meeting: introduction & goals     |
-| 2021.06.02 - 2021.06.07 | 2.5 hours/week | asynchronous | Module 1                                   |
-| 2021.06.08              | 1 hour         | synchronous  | Discussion of module 1                     |
+| 2023.10.30              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
+| 2023.10.31 - 2021.06.07 | 2.5 hours      | asynchronous | Module 1                                   |
+| 2023.11.01              | 1 hour         | synchronous  | Discussion of module 1                     |
 | 2021.06.07 - 2021.06.14 | 2.5 hours/week | asynchronous | Module 1 contd.                            |
 | 2021.06.15              | 1 hour         | synchronous  | Discussion of module 1 & intro to module 2 |
 | 2021.06.16 - 2021.07.05 | 2 hours/week   | asynchronous | Module 2                                   |
