@@ -46,9 +46,8 @@ We appreciate all the support from our partners below.<br>
   <tr> 
     <td vlign="center" style="border: 0;"><img src="img/logo/UF_Signature-transparent.png" width="300"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/cersgis-logo.png" width="125"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/university-of-ghana-logo-1024x948.png" width="105"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/LUSPA_Logo.png" width="100"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/![wildcru](https://github.com/mogaetkpp/GALUP/assets/124671553/870a5bc4-b50d-4506-a3b9-57e06e755e64)" width="150"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="135"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/wildcru.jpg" width="200"></td>
 
   </tr>
 </table>
@@ -59,5 +58,6 @@ We appreciate all the support from our partners below.<br>
     <td><img src="img/logo/nasa.png" width="120"></td>
     <td><img src="img/logo/USAID_logo.png" width="260"></td>
     <td><img src="img/logo/crs.png" width="120"></td>
+    <td><img src="img/logo/GALUP-logo.png" width="120"></td>
   </tr>
 </table>
