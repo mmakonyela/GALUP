@@ -4,7 +4,6 @@
 ![license](https://img.shields.io/github/license/servir-wa/galup)
 ![contributors](https://img.shields.io/github/contributors/servir-wa/galup)
 ![gh-size](https://img.shields.io/github/repo-size/servir-wa/galup)
-[![twitter](https://img.shields.io/twitter/follow/Galupghana?style=social)](https://twitter.com/GALUPGhana)
 
 ## Introduction
 
@@ -40,13 +39,13 @@ technologies to inform and ensure sustainable land use practices in Chobe.
 
 ## COL Project Partners
 
-We appreciate all the support from our partners below.<br>
+We appreciate all the support from our partners below:<br>
 
 <table style="border: 0;">
   <tr> 
     <td vlign="center" style="border: 0;"><img src="img/logo/UF_Signature-transparent.png" width="300"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/cersgis-logo.png" width="125"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="135"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="150"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/wildcru.jpg" width="200"></td>
 
   </tr>
