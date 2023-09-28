@@ -44,19 +44,18 @@ We appreciate all the support from our partners below:<br>
 <table style="border: 0;">
   <tr> 
     <td vlign="center" style="border: 0;"><img src="img/logo/UF_Signature-transparent.png" width="300"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/cersgis-logo.png" width="125"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="150"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/wildcrulogo.jpeg" width="200"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/wildcrulogo.jpeg" width="210"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/CDClogo.jpg" width="150"></td>
 
   </tr>
 </table>
 <br>
 <table>
   <tr>    
-    <td><img src="img/logo/SERVIR_Logo.png" width="120"></td>
-    <td><img src="img/logo/nasa.png" width="120"></td>
-    <td><img src="img/logo/USAID_logo.png" width="260"></td>
-    <td><img src="img/logo/crs.png" width="120"></td>
-    <td><img src="img/logo/GALUP-logo.png" width="120"></td>
-  </tr>
+    <td><img src="img/logo/SERVIR_Logo.png" width="150"></td>
+    <td><img src="img/logo/nasa.png" width="150"></td>
+    <td><img src="img/logo/USAID_logo.png" width="300"></td>
+    <td><img src="img/logo/crs.png" width="150"></td>
+    </tr>
 </table>
