@@ -46,7 +46,7 @@ We appreciate all the support from our partners below:<br>
     <td vlign="center" style="border: 0;"><img src="img/logo/UF_Signature-transparent.png" width="300"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/cersgis-logo.png" width="125"></td>
     <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="150"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/wildcru.jpg" width="200"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/wildcrulogo.jpg" width="200"></td>
 
   </tr>
 </table>
