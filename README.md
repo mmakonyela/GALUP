@@ -7,13 +7,7 @@
 
 ## Introduction
 
-The Chobe District is one of the most rich and diverse regions with natural resources, ethnicity, and culture in Botswana. Due to the abundance of resources in the district, alongside local communities who are highly dependent in natural resources including forests, rivers, agricultural land and wildlife, Chobe is characterised by high prevalence of land-use conflict which ultimately lead to the prevailing human-wildlife conflict. These conflicts are mainly due to competition between people-and-people and people-and-wildlife for limited land and other resources like water and grazing areas.
-
-Working in close collaboration with the Chobe Land Board (CLB) and the District Land Use Planning Unit (DLUPU), the Chobe Open-LUCIS (COL) project aims to build capacity with local stakeholders and enhance informed decision-making in land management and sustainability in land use to cater for the needs of the District. The project replicates a simmilar approch applied by the Ghana Land Use Project ([GALUP](http://galup.cersgis.org/)) which also aimed to enhance existing operational planning framework and build capacity for effective land use planning in Ghana. As there are varrying land use pressures for different areas around the world, in Ghana, farmlands and cities are expanding rapidly into the savannas, woodlands and forests.
-
-<a href="https://mediasite.video.ufl.edu/Mediasite/Play/af9fff7909d6460991b329e41970d71a1d">
-  <img src="img/timg/galup_intro.png" alt="GALUP intro" width="800">
-</a><br>
+The Chobe District is one of the most rich and diverse regions with natural resources, ethnicity, and culture in Botswana. Due to the abundance of resources in the district, alongside local communities who are highly dependent in natural resources including forests, rivers, agricultural land and wildlife, Chobe is characterised by high prevalence of land-use conflict which ultimately lead to the prevailing human-wildlife conflict. These conflicts are mainly due to competition between people-and-people and people-and-wildlife for limited land and other resources like water and grazing areas. Working in close collaboration with the Chobe Land Board (CLB) and the District Land Use Planning Unit (DLUPU), the Chobe Open-LUCIS (COL) project aims to build capacity with local stakeholders and enhance informed decision-making in land management and sustainability in land use to cater for the needs of the District. 
 
 ## COL Training
 
@@ -25,7 +19,7 @@ technologies to inform and ensure sustainable land use practices in Chobe.
 
 > **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;
 > **Date**: November 5 - December 15, 2023.<br>
-> **Co-authors**: Silas Achidago and Lynn Fanikiso.
+> **Co-authors**: Silas Achidago, Lynn Fanikiso and Mogae Makonyela.
 
 1. [Module 1 - Software and Data Preparation](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md)
 2. [Module 2 - Introduction to LUCIS-OPEN Tools for QGIS](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module2.md)
