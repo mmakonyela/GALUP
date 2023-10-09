@@ -3,16 +3,16 @@
 **What will you learn from this module?**
 
 - Installing QGIS and PyLUSAT, and loading _LUCIS-OPEN Tools for QGIS_,
-- Be familiar with the user interface of QGIS 3.10.8,
+- Be familiar with the user interface of QGIS,
 - Visualizing GIS data and creating maps.
 
 ## 1. Software Installation
 
 > :pushpin: Note on installation:<br>
 > Follow the [instruction](https://github.com/SERVIR-WA/GALUP/wiki/Install)
-> to install [QGIS 3.10.8](https://qgis.org/en/site/) and
+> to install [QGIS](https://qgis.org/en/site/) and
 > [PyLUSAT v0.5.2](https://github.com/chjch/pylusat), which must be installed
-> before we can successfully load and run the tools GALUP have developed.
+> before we can successfully start the COL training. The tools to be loaded and run for this training were developed by GALUP.
 
 ## 2. GIS Datasets
 
@@ -32,7 +32,7 @@
 | 8  |||| Tourism facilities in Botswana |
 | 9  |||| Primary and secondary roads in Botswana |
 
-## 3. Working with QGIS 3.10.8
+## 3. Working with QGIS
 
 In this section, we will explore the QGIS
 [Graphical User Interface](https://docs.qgis.org/3.10/en/docs/user_manual/introduction/qgis_gui.html)
