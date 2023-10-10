@@ -9,10 +9,8 @@
 ## 1. Software Installation
 
 > :pushpin: Note on installation:<br>
-> Follow the [instruction](https://github.com/SERVIR-WA/GALUP/wiki/Install)
-> to install [QGIS](https://qgis.org/en/site/) and
-> [PyLUSAT v0.5.2](https://github.com/chjch/pylusat), which must be installed
-> before we can successfully start the COL training. The tools to be loaded and run for this training were developed by GALUP.
+> To set up your computer, please **download** and **install** [QGIS 3.2.0](https://download.qgis.org/downloads/windows/3/3.2/QGIS-OSGeo4W-3.2.0-1-Setup-x86.exe). We recommend that all participants for the COL training to use this version of QGIS for consistency. The latest version of **QGIS** and other resources can be found [here](https://qgis.org/en/site/). Please follow the [instruction](https://servir-wa.github.io/GALUP/html/pylusat.html) to install the **Python for Land-use Suitability Analysis Tools** (PyLUSAT), which must be installed
+> before we can successfully start the COL training. The PyLUSAT tools to be loaded and run for this training were developed by GALUP.
 
 ## 2. GIS Datasets
 
