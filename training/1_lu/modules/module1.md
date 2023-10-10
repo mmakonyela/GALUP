@@ -27,10 +27,10 @@
 | 3  | healthsites.shp                  | vector      | point   | Health facilities in Ghana      |
 | 4  | GHARoads2020PrimarySecondary.shp | vector      | line    | Primary and secondary roads in Ghana |
 | 5  |                                  | vector      | polygon | Districts of Botswana|
-| 6  |||| Population of Botswana in 2022|
-| 7  |||| Health facilities in Botswana | 
-| 8  |||| Tourism facilities in Botswana |
-| 9  |||| Primary and secondary roads in Botswana |
+| 6  || raster | tiff | Population of Botswana in 2022|
+| 7  || vector | point | Health facilities in Botswana | 
+| 8  || vector | point | Tourism facilities in Botswana |
+| 9  || vector | line | Primary and secondary roads in Botswana |
 
 ## 3. Working with QGIS
 
