@@ -1,6 +1,6 @@
 # COL Workshop: Land-Use Suitability Analysis with QGIS Tools
 
-> **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;**Date**: June 1 - August 10, 2021
+> **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;**Date**: October 26 - December 15, 2023
      
 ### Goal
 
@@ -48,16 +48,14 @@ an open-source GIS software application.
 
 | Date/week               | Time           | Type         | Agenda                                     |
 |-------------------------|----------------|--------------|--------------------------------------------|
-| 2023.10.30              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
-| 2023.10.31 - 2021.06.07 | 2.5 hours      | asynchronous | Module 1                                   |
-| 2023.11.01              | 1 hour         | synchronous  | Discussion of module 1                     |
-| 2021.06.07 - 2021.06.14 | 2.5 hours/week | asynchronous | Module 1 contd.                            |
-| 2021.06.15              | 1 hour         | synchronous  | Discussion of module 1 & intro to module 2 |
-| 2021.06.16 - 2021.07.05 | 2 hours/week   | asynchronous | Module 2                                   |
-| 2021.07.06              | 1 hour         | synchronous  | Discussion of module 2 & intro to module 3 |
-| 2021.07.07 - 2021.07.21 | 2 hours/week   | asynchronous | Module 3                                   |
-| 2021.07.22 - 2021.08.02 | 3 hours/week   | asynchronous | Module 4                                   |
-| 2021.08.03              | 1.5 hours      | synchronous  | Discussion & conclusion                    |
+| 2023.10.26              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
+| 2023.10.27              | 4 hours        | in-person    | Module 1                                   |
+| 2023.10.30 - 2023.11.10 | 2.5 hours/week | asynchronous | Module 1 contd.                            |
+| 2023.11.22              | 4 hours        | in-person    | Module 2                                   |
+| 2023.11.23              | 4 hours        | in-person    | Module 3                                   |
+| 2023.11.24              | 4 hours        | in-person    | Module 4                                   |
+| 2023.11.27 - 2023.12.08 | 2 hours/week   | asynchronous | Completion of Module 2, 3 & 4              |
+| 2023.12.14              | 1.5 hours      | hybrid       | Discussion & conclusion                    |
 
 ## 3. Delivery Method
 
