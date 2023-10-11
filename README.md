@@ -19,7 +19,7 @@ technologies to inform and ensure sustainable land use practices in Chobe.
 
 > **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;
 > **Date**: November 5 - December 15, 2023.<br>
-> **Co-authors**: Silas Achidago, Lynn Fanikiso and Mogae Makonyela.
+> **Co-authors**: Mogae Makonyela, Silas Achidago and Lynn Fanikiso
 
 1. [Module 1 - Software and Data Preparation](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md)
 2. [Module 2 - Introduction to LUCIS-OPEN Tools for QGIS](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module2.md)
