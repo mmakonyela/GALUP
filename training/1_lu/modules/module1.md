@@ -24,11 +24,10 @@
 | 2  | population_gha_2018-10-01.tif    | raster      | tiff    | Population of Ghana in 2018     |
 | 3  | healthsites.shp                  | vector      | point   | Health facilities in Ghana      |
 | 4  | GHARoads2020PrimarySecondary.shp | vector      | line    | Primary and secondary roads in Ghana |
-| 5  |                                  | vector      | polygon | Districts of Botswana|
-| 6  || raster | tiff | Population of Botswana in 2022|
-| 7  || vector | point | Health facilities in Botswana | 
-| 8  || vector | point | Tourism facilities in Botswana |
-| 9  || vector | line | Primary and secondary roads in Botswana |
+| 1  |   .shp                           | vector      | polygon | Districts of Botswana|
+| 2  | .tif | raster | tiff | Population of Botswana in 2022|
+| 3  | .shp | vector | point | Health facilities in Botswana | 
+| 4  | .shp | vector | line | Primary and secondary roads in Botswana |
 
 ## 3. Working with QGIS
 
@@ -55,7 +54,7 @@ _Toolbars_ to the place you prefer (see the animation below).
    > In the Browser Panel, you can also add the folder you frequently used to
    > [Favorites](https://docs.qgis.org/3.10/en/docs/training_manual/basic_map/overview.html?highlight=Favorites#basic-the-browser-panel). To avoid long path shown in
    > the Favorites, you can also `Rename Favorite...`.
-3. Now, lets load _Districts of Ghana_, _Road Network_, and _Health Facility_
+3. Now, lets load _Districts of Botswana_, _Road Network_, and _Health Facility_
 to Map Canvas, as shown in below.
 
 <div align="center">
