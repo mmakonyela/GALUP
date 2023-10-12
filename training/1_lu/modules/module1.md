@@ -42,7 +42,7 @@ this [page](https://docs.qgis.org/3.10/en/docs/training_manual/basic_map/overvie
 
 Moreover, you can customize the GUI by dragging and moving _Panels_ and
 _Toolbars_ to the place you prefer (see the animation below).
-![gui_custom](../../../img/gif/m1_custom_gui.gif)
+![gui_custom](../../../img/gif/m1_custom_guiBW.gif)
 
 ### 3.1 Add Data to [_Map Canvas_](https://docs.qgis.org/3.10/en/docs/training_manual/basic_map/mapviewnavigation.html)
 
@@ -61,7 +61,7 @@ to Map Canvas, as shown in below.
 
 |               Add Data to Map Canvas            |
 |:-------------------------------------------------:|
-| <img src="../../../img/map/m1_AddData.png" width="600"> |
+| <img src="../../../img/map/m1_AddDataBW.jpeg" width="500"> |
 
 </div>
 
@@ -81,7 +81,7 @@ information on features of a selected layer.
 
 |               Attribute Table           |
 |:-------------------------------------------------:|
-| <img src="../../../img/gui/window/m1_attribute_table.png" width="600"> |
+| <img src="../../../img/gui/window/m1_attribute_tableBW.jpg" width="600"> |
 
 </div>
 
@@ -103,7 +103,7 @@ as you are working with it.
 
 |  Single Symbology  |  Categorized Symbology |  Graduated Symbology  |
 |:------------------:|:----------------------:|:---------------------:|
-| ![basemap](../../../img/map/m1_Single.png)  | ![basemap](../../../img/map/m1_Categorized.png)  | ![basemap](../../../img/map/m1_Graduated.png)  |
+| ![basemap](../../../img/map/m1_SingleBW.png)  | ![basemap](../../../img/map/m1_CategorizedBW.png)  | ![basemap](../../../img/map/m1_GraduatedBW.png)  |
 
 ### 3.4 Add a _Basemap_ to Map Canvas
 
@@ -128,7 +128,7 @@ For details, please check out this [tutorial](https://opengislab.com/blog/2018/4
 
 |                Layer with a Basemap                  |
 |:-------------------------------------------------:|
-| <img src="../../../img/map/m1_basemap.png" alt= "basemap" width="700"> |
+| <img src="../../../img/map/m1_basemapBW.jpeg" alt= "basemap" width="500"> |
 
 </div>
 
