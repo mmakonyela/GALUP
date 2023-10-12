@@ -61,7 +61,7 @@ to Map Canvas, as shown in below.
 
 |               Add Data to Map Canvas            |
 |:-------------------------------------------------:|
-| <img src="../../../img/map/m1_AddDataBW.jpeg" width="500"> |
+| <img src="../../../img/map/m1_AddDataBW.png" width="500"> |
 
 </div>
 
@@ -81,7 +81,7 @@ information on features of a selected layer.
 
 |               Attribute Table           |
 |:-------------------------------------------------:|
-| <img src="../../../img/gui/window/m1_attribute_tableBW.jpg" width="600"> |
+| <img src="../../../img/gui/window/m1_attribute_tableBW.png" width="600"> |
 
 </div>
 
@@ -128,7 +128,7 @@ For details, please check out this [tutorial](https://opengislab.com/blog/2018/4
 
 |                Layer with a Basemap                  |
 |:-------------------------------------------------:|
-| <img src="../../../img/map/m1_basemapBW.jpeg" alt= "basemap" width="500"> |
+| <img src="../../../img/map/m1_basemapBW.jpeg" alt= "basemap" width="400"> |
 
 </div>
 
