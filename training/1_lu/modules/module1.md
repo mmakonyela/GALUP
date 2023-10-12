@@ -20,14 +20,10 @@
 
 | ID | File Name                        | Data Format | Type    | Description                     |
 |----|----------------------------------|-------------|---------|---------------------------------|
-| 1  | Gh_260_MMDA.shp                  | vector      | polygon | Districts of Ghana              |
-| 2  | population_gha_2018-10-01.tif    | raster      | tiff    | Population of Ghana in 2018     |
-| 3  | healthsites.shp                  | vector      | point   | Health facilities in Ghana      |
-| 4  | GHARoads2020PrimarySecondary.shp | vector      | line    | Primary and secondary roads in Ghana |
-| 1  |   .shp                           | vector      | polygon | Districts of Botswana|
+| 1  |   BWA_ADM_2021.shp               | vector      | polygon | Districts of Botswana|
 | 2  | .tif | raster | tiff | Population of Botswana in 2022|
-| 3  | .shp | vector | point | Health facilities in Botswana | 
-| 4  | .shp | vector | line | Primary and secondary roads in Botswana |
+| 3  | BWA_Healthsites.shp              | vector      | point   | Health facilities in Botswana | 
+| 4  | BWA_Roads_PrimarySecondary2023.shp | vector | line | Primary and secondary roads in Botswana |
 
 ## 3. Working with QGIS
 
