@@ -48,14 +48,12 @@ an open-source GIS software application.
 
 | Date/week               | Time           | Type         | Agenda                                     |
 |-------------------------|----------------|--------------|--------------------------------------------|
-| 2023.10.26              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
-| 2023.10.27              | 4 hours        | in-person    | Module 1                                   |
+| 2023.10.27              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
+| 2023.10.30 & 31         | 4 hours        | in-person    | Module 1 (download prior to meeting)       |
 | 2023.10.30 - 2023.11.10 | 2.5 hours/week | asynchronous | Module 1 contd.                            |
-| 2023.11.22              | 4 hours        | in-person    | Module 2                                   |
-| 2023.11.23              | 4 hours        | in-person    | Module 3                                   |
-| 2023.11.24              | 4 hours        | in-person    | Module 4                                   |
-| 2023.11.27 - 2023.12.08 | 2 hours/week   | asynchronous | Completion of Module 2, 3 & 4              |
-| 2023.12.14              | 1.5 hours      | hybrid       | Discussion & conclusion                    |
+| 2023.11.22              | 8 hours        | in-person    | Module 2, 3 & 4                                   |
+| 2023.11.23              | 8 hours        | in-person    | Module 2, 3 & 4                                   |
+| 2023.11.24              | 8 hours        | in-person    | Completion of modules, discussions & conclusion   |
 
 ## 3. Delivery Method
 
