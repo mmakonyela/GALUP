@@ -15,7 +15,7 @@ One of the COL project objectives is to help build local capacity in applying to
 empowered by Remote Sensing (RS) and Geographic Information System (GIS)
 technologies to inform and ensure sustainable land use practices in Chobe.
 
-### [COL Workshop - Land-Use Suitability Analysis with QGIS Tools](https://github.com/SERVIR-WA/GALUP/tree/master/training/1_lu/modules)
+### [COL Workshop - Land-Use Suitability Analysis with QGIS Tools](training/1_lu/modules)
 
 > **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;
 > **Date**: November 5 - December 15, 2023.<br>
