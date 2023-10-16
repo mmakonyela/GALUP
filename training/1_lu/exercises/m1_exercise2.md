@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-In Exercise 1, we made a map of the population of Ghana in year 2018. In this
+In Exercise 1, we made a map of the population of Botswana in year 2022. In this
 exercise, we will calculate _Population Density_ for individual Districts by,
 first, reviewing the data in
 [**Attribute Table**](https://docs.qgis.org/3.10/en/docs/user_manual/working_with_vector/attribute_table.html?highlight=attribute#introducing-the-attribute-table-interface),
@@ -12,8 +12,8 @@ Finally, we will export the population density map as a PDF file.
 
 ## 2. Dataset
 
-We will, again, use the _shapefile_ named **_Gh\_260\_MMDA.shp_** at
-`GALUP-master -> training -> 1_lu -> datasets -> District of Ghana`
+We will, again, use the _shapefile_ named **_BWA_ADM_2021.shp_** at
+`GALUP-master -> training -> 1_lu -> datasets -> Districts of Botswana`
 to do this exercise.
 
 Check out this tutorial [here](https://www.youtube.com/watch?v=PkGON2G8vEU)
@@ -30,8 +30,8 @@ This exercise covers:
 
 ## 4. Instruction
 
-1. Add the data (_Gh\_260\_MMDA.shp_) to Map Canvas.
-2. Open the _Attribute Table_ of the data to view two fields: _Pop\_2018_
+1. Add the data (_BWA_ADM_2021.shp_) to Map Canvas.
+2. Open the _Attribute Table_ of the data to view two fields: _Pop\_2022_
    (population by district in 2018) and _Area\_km2_ (area by district in square
    kilometers).
 3. Open **Field Calculator** from the menu bar on the top of the Attribute
@@ -39,7 +39,7 @@ This exercise covers:
 4. In the **Field Calculator**,
    - **Create a new field** with name "Pop_Den", and
    - specify the **Expression** to calculate population density using two
-     fields: _Pop\_2018_ and _Area\_km2_.
+     fields: _Pop\_2022_ and _Area\_km2_.
 5. Save your results on the attribute table by clicking _Toggle editing mode_ ![stopediting](../../../img/gui/icon/mActionToggleEditing.svg) on the menu bar of the attribute table, or press _Ctrl\+E_.
 6. Choose the _Graduated_ symbology and the _BuPu_ color ramp with 5 classes to
    render _Pop\_Den_, the newly calculated field.
