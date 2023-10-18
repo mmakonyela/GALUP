@@ -21,7 +21,7 @@
 | ID | File Name                        | Data Format | Type    | Description                     |
 |----|----------------------------------|-------------|---------|---------------------------------|
 | 1  |   BWA_ADM_2021.shp               | vector      | polygon | Districts of Botswana|
-| 2  | .tif | raster | tiff | Population of Botswana in 2022|
+| 2  | BWA_Population_Density.tif | raster | tiff | Population of Botswana in 2022|
 | 3  | BWA_Healthsites.shp              | vector      | point   | Health facilities in Botswana | 
 | 4  | BWA_Roads_PrimarySecondary2023.shp | vector | line | Primary and secondary roads in Botswana |
 
