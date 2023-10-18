@@ -53,4 +53,4 @@ This exercise covers:
 - Upon completion, the map you got should look similar to this pdf
   [here](../pdf_maps/DensityMap.pdf).
 - Now you have completed both exercises. Please go back to
-  [Module 1](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#4-exercises) to turn in them.
+  [Module 1](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module1.md#4-exercises) to turn in them.
