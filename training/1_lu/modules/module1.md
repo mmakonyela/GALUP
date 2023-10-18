@@ -147,7 +147,7 @@ indicate the direction. You can add these items under the `Add Item` button.
   in the PDF file, try a lower _dpi_ (e.g., 150 dpi) in the
   [**Export Setting**](https://docs.qgis.org/3.10/en/docs/user_manual/print_composer/overview_composer.html#export-settings )
   in the [**Layout Panel**](https://docs.qgis.org/3.10/en/docs/user_manual/print_composer/overview_composer.html#the-layout-panel).)
-- See the example map in PDF file [here](training/1_lu/pdf_maps/PopulationMap.pdf).
+- See the example map in PDF file [here].
 
 ## 4. Exercises and Post-training Survey
 
