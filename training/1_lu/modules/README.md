@@ -4,14 +4,14 @@
      
 ### Goal
 
-This workshop aims at laying a foundation of core
+This workshop aims to lay a foundation for core
 concepts and techniques used in land-use suitability analysis, of which the
-output will help inform land-use decision making.
+output will help inform land use decision-making.
 Using QGIS, an open-source Geographic Information System (GIS) software
-application, and the Processing Algorithms developed by the GALUP team, at the
-conclusion of the workshop, trainees should be able to independently visualize
-GIS data, conduct geospatial analysis, and identify suitable areas for a
-particular land-use purpose.
+application, and the [PyLUSATQ](https://plugins.qgis.org/plugins/pylusatq/)
+plugin developed by the GALUP team, at the conclusion of the workshop, trainees
+should be able to independently (1) visualize GIS data, (2) conduct geospatial analysis, 
+and (3) identify suitable areas for different land uses.
 
 ### Objectives
 
