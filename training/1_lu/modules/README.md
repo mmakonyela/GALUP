@@ -1,6 +1,6 @@
 # COL Workshop: Land-Use Suitability Analysis with QGIS Tools
 
-> **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;**Date**: October 26 - November 24, 2023
+> **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;**Date**: October 25 - November 24, 2023
      
 ### Goal
 
@@ -48,7 +48,7 @@ an open-source GIS software application.
 
 | Date/week               | Time           | Type         | Agenda                                     |
 |-------------------------|----------------|--------------|--------------------------------------------|
-| 2023.10.26              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
+| 2023.10.25              | 2 hours        | hybrid       | Kick-off meeting: introduction & goals     |
 | 2023.10.27 & 30         | 4 hours        | in-person    | Module 1 (download prior to meeting)       |
 | 2023.10.30 - 2023.11.10 | 2 hours/week   | asynchronous | Module 1 contd.                            |
 | 2023.11.22              | 8 hours        | in-person    | Module 2, 3 & 4                                   |
