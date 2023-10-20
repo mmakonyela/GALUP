@@ -18,7 +18,7 @@ technologies to inform and ensure sustainable land use practices in Chobe.
 ### [COL Workshop - Land-Use Suitability Analysis with QGIS Tools](training/1_lu/modules)
 
 > **Instructor**: [Dr. Changjie Chen](https://github.com/chjch) (<ins>chj.chen@<i></i>ufl.edu</ins>).&nbsp;&nbsp;&nbsp;&nbsp;
-> **Date**: October 26 - November 24, 2023.<br>
+> **Date**: November 22-24, 2023.<br>
 > **Co-authors**: Mogae Makonyela, Silas Achidago and Lynn Fanikiso
 
 1. [Module 1 - Software and Data Preparation](https://github.com/mogaetkpp/GALUP/tree/master/training/1_lu/modules/module1.md)
