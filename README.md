@@ -37,11 +37,10 @@ We appreciate all the support from our partners below:<br>
 
 <table style="border: 0;">
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="img/logo/UF_Signature-transparent.png" width="210"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="150"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/wildcrulogo.jpeg" width="210"></td>
-    <td vlign="center" style="border: 0;"><img src="img/logo/CDClogo.jpg" width="150"></td>
-
+    <td vlign="center" style="border: 0;"><img src="img/logo/wildcrulogo.jpeg" width="270"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/CLBlogo.jpg" width="200"></td>
+    <td vlign="center" style="border: 0;"><img src="img/logo/UF_Signature-transparent.png" width="270"></td>
+    
   </tr>
 </table>
 <br>
