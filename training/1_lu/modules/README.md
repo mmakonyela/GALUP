@@ -48,9 +48,8 @@ an open-source GIS software application.
 
 | Date/week               | Time           | Type         | Agenda                                     |
 |-------------------------|----------------|--------------|--------------------------------------------|
-| 2023.10.25              | 2 hours        | in-person    | Kick-off meeting: introduction & goals     |
-| 2023.10.27 & 30         | 4 hours        | in-person    | Module 1 (provide support where needed)    |
-| 2023.10.30 - 2023.11.10 | 2 hours/week   | asynchronous | Module 1 contd.                            |
+| 2023.10.30              | 2 hours        | in-person    | Kick-off: introduction, goals & module 1 launch     |
+| 2023.10.30 - 2023.11.10 | 2 hours/week   | asynchronous | Module 1 contd. (provide support where needed)                            |
 | 2023.11.22              | 8 hours        | in-person    | Module 2, 3 & 4                                   |
 | 2023.11.23              | 8 hours        | in-person    | Module 2, 3 & 4                                   |
 | 2023.11.24              | 8 hours        | in-person    | Completion of modules, discussions & conclusion   |
