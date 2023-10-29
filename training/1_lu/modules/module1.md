@@ -57,7 +57,7 @@ to Map Canvas, as shown in below.
 
 |               Add Data to Map Canvas            |
 |:-------------------------------------------------:|
-| <img src="../../../img/map/m1_AddDataBW.png" width="500"> |
+| <img src="../../../img/map/m1_AddDataBW2.jpeg" width="500"> |
 
 </div>
 
@@ -124,7 +124,7 @@ For details, please check out this [tutorial](https://opengislab.com/blog/2018/4
 
 |                Layer with a Basemap                  |
 |:-------------------------------------------------:|
-| <img src="../../../img/map/m1_basemapBW.jpeg" alt= "basemap" width="400"> |
+| <img src="../../../img/map/m1_basemapBW2.jpeg" alt= "basemap" width="400"> |
 
 </div>
 
