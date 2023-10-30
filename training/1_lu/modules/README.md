@@ -40,9 +40,9 @@ an open-source GIS software application.
 ## 1. Modules
 
 1. [Module 1 - Software and Data Preparation](module1.md)
-2. [Module 2 - Introduction to LUCIS-OPEN Tools for QGIS](module2.md)
-3. [Module 3 - Create Suitability Models with QGIS Graphical Modeler](module3.md)
-4. [Module 4 - Making Land-Use Decisions using the LUCIS Framework](module4.md)
+2. [Module 2 - Introduction to LUCIS-OPEN Tools for QGIS](module)
+3. [Module 3 - Create Suitability Models with QGIS Graphical Modeler](module)
+4. [Module 4 - Making Land-Use Decisions using the LUCIS Framework](module)
 
 ## 2. Schedule
 
