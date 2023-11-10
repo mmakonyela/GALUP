@@ -59,8 +59,8 @@ The two figures below display the specific parameter settings
 
 |          Parameter Setting         |    Output Map   |
 |:------------------------------------------:|:------------------------------------------:|
-| ![PS1](../../../img/gui/window/m2Line_Density_Para.png) | ![am1](../../../img/map/m2Line_Density_Out.png) |
-
+| <img src="../../../img/gui/window/m2Line_Density_Para.png" alt= "Add data to Map Canvas" width="450">| <img src="../../../img/map/m2Line_Density_Out.png" alt= "Add data to Map Canvas" width="460"> |
+ 
 In the output map, we used **Blues** [Graduated Color](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#33-change-symbology-of-a-layer) to indicate different ranges of the line density (per square meter). Specifically, the darker the blue the higher the density of roads.
 
 
@@ -89,7 +89,7 @@ The two figures below display the specific parameter settings
 
 |          Parameter Setting         |    Output    |
 |------------------------------------------|------------------------------------------|
-| ![PS2](../../../img/gui/window/m2Distance_Point_Para.png) | ![am2](../../../img/map/m2Distance_Point_Out.png) |
+| <img src ="../../../img/gui/window/m2Distance_Point_Para.png" width="450">| <img src ="../../../img/map/m2Distance_Point_Out.png" width="460">|
 
 
 ## 3. Reclassify Field
@@ -134,7 +134,7 @@ of the tool.
 
 |          Parameter Setting         |    Output   |
 |:------------------------------------------:|:------------------------------------------:|
-| ![PS3](../../../img/gui/window/m2Reclasify_Field_Para.png) | ![am3](../../../img/map/m2Reclasify_Field_Out.png) |
+| <img src ="../../../img/gui/window/m2Reclasify_Field_Para.png" width="450">| <img src ="../../../img/map/m2Reclasify_Field_Out.png" width="460">|
 
 ## 4. Spatial Join
 
@@ -179,7 +179,7 @@ The datasets used are listed below:
 The two figures below display the specific parameter settings and the output of the tool.
 |         Parameters setting     |       Output        |
 |:------------------------------:|:------------------------------------------:|
-| <img src="../../../img/gui/window/m2Spatial_join_Para.png" alt= "Add data to Map Canvas" width="600">   |  <img src="../../../img/map/m2Spatial_Joint_Out.png" alt= "Add data to Map Canvas" width="580">   |
+| <img src="../../../img/gui/window/m2Spatial_joint_Para.png" alt= "Add data to Map Canvas" width="400">   |  <img src="../../../img/map/m2Spatial_Joint_Out.png" alt= "Add data to Map Canvas" width="480">   |
 
 In the output map,  we used Reds
 [Graduated Color](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#33-change-symbology-of-a-layer)
@@ -217,7 +217,7 @@ distribution of population in Botswana.
 
 |         Parameters setting     |       Output        |
 |:---------------------------------------:|:---------------------------------------------:|
-| <img src="../../../img/gui/window/m2Zonal_Statistics_Para.png" alt= "Add data to Map Canvas" width="565">   |  <img src="../../../img/map/m2Zonal_Statistics_Out.png" alt= "Add data to Map Canvas" width="530">   |
+| <img src="../../../img/gui/window/m2Zonal_Statistics_Para.png" alt= "Add data to Map Canvas" width="465">   |  <img src="../../../img/map/m2Zonal_Statistics_Out.png" alt= "Add data to Map Canvas" width="430">   |
 
 In the output map, we used _Reds_
 [Graduated Color](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#33-change-symbology-of-a-layer)
@@ -250,7 +250,7 @@ within a 100-kilometer buffer of the railway line in Botswana.
 
 |         Parameters setting     |       Output        |
 |:---------------------------------------:|:---------------------------------------------:|
-| <img src="../../../img/gui/window/m2Select_Location_Para.png" alt= "Add data to Map Canvas" width="570">   |  <img src="../../../img/map/m2Select_Location_Out.png" alt= "Add data to Map Canvas" width="521">   |
+| <img src="../../../img/gui/window/m2Select_Location_Para.png" alt= "Add data to Map Canvas" width="470">   |  <img src="../../../img/map/m2Select_Location_Out.png" alt= "Add data to Map Canvas" width="421">   |
 
 In the output map, we used Green color to indicate the served area of railway
 in Ghana.
