@@ -117,26 +117,24 @@ scoring system (e.g., 1 to 10) on which the final weighting step will be based.
 ### 3.2 Example
 
 Recall that, in Exercise 2 of Module 1, we calculated the population density of
-Ghana by district in 2018.
+Botswana by district in 2022.
 In the following example, in order to know the population density level of
-Ghana by district in 2018, we use the Reclassify Field tool to reclassify the
-population density of Ghana by district in 2018 according to the criteria that
-old values: 7-60, 60-100, 100-186, 186-490, and 490-18804 will be assigned new
+Botswana by district in 2022, we use the Reclassify Field tool to reclassify the
+population density of Botswana by district in 2022 according to the criteria that
+old values: 0-1, 1-3.8, 3.8-11.4, 11.4-63.6, 63.6-1386 will be assigned new
 values: 1, 2, 3, 4, and 5, respectively.
 The datasets used are listed below:
 
 | ID | File Name       | Data Format | Type    | Description        |
 |----|-----------------|-------------|---------|--------------------|
-| 1  | Gh_260_MMDA.shp | vector      | polygon | Districts of Ghana |
+| 1  | BWA_ADM_2021.shp | vector      | polygon | Districts of Botswana |
 
 The two figures below display the specific parameter settings and the output
 of the tool.
 
 |          Parameter Setting         |    Output   |
 |:------------------------------------------:|:------------------------------------------:|
-| ![PS3](../../../img/gui/window/m2_reclassify_ParametersSetting.png) | ![am3](../../../img/map/m2_reclassify_Output.png) |
-
-
+| ![PS3](../../../img/gui/window/m2Reclasify_Field_Para.png) | ![am3](../../../img/map/m2Reclasify_Field_Out.png) |
 
 ## 4. Spatial Join
 
@@ -170,23 +168,23 @@ deviation), **var** (variance), **count**.
 
 In the following example, we choose the **Join one to one** option to find out
 the **count** (number of records) of points of interest (tourism) within each
-District Assembly of Ghana.
+District Administration of Botswana.
 The datasets used are listed below:
 
 | ID | File Name           | Data Format | Type    | Description                |
 |----|---------------------|-------------|---------|----------------------------|
-| 1  | Gh_260_MMDA.shp     | vector      | polygon | Districts of Ghana         |
-| 2  | PointOfInterest.shp | vector      | point   | Point of interest in Ghana |
+| 1  | BWA_ADM_2021.shp | vector      | polygon | Districts of Botswana    |
+| 2  | PointOfInterestBW.shp | vector      | point   | Points of interest in Botswana |
 
 The two figures below display the specific parameter settings and the output of the tool.
 |         Parameters setting     |       Output        |
 |:------------------------------:|:------------------------------------------:|
-| <img src="../../../img/gui/window/m2_spatialjoin_ParametersSetting.png" alt= "Add data to Map Canvas" width="600">   |  <img src="../../../img/map/m2_spatialjoin_Output.png" alt= "Add data to Map Canvas" width="580">   |
+| <img src="../../../img/gui/window/m2Spatial_join_Para.png" alt= "Add data to Map Canvas" width="600">   |  <img src="../../../img/map/m2Spatial_Joint_Out.png" alt= "Add data to Map Canvas" width="580">   |
 
 In the output map,  we used Reds
 [Graduated Color](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#33-change-symbology-of-a-layer)
-to indicate different ranges of the number of point of interest in Ghana.
-Specifically, the darker the red the higher the number of point of interest.
+to indicate different ranges of the number of points of interest in Botswana.
+Specifically, the darker the red the higher the number of points of interest.
 
 ## 5. Zonal Statistics
 
@@ -205,25 +203,25 @@ This tool is often used to calculates statistic on values you are interested fro
 ### 5.2 Example
 
 In the following example, we use this tool to **sum** population based
-on values of raster dataset within each district of Ghana to show the
-distribution of population in Ghana.
+on values of raster dataset within each district of Botswana to show the
+distribution of population in Botswana.
 
   The datasets used are listed below:
 
 | ID | File Name           | Data Format | Type    | Description                                                 |
 |----|---------------------|-------------|---------|-------------------------------------------------------------|
-| 1  | Gh_260_MMDA.shp               | vector      | polygon | Districts of Ghana              |
-| 2  | population_gha_2018-10-01.tif | raster      | tiff    | Population of Ghana in 2018     |
+| 1  | BWA_ADM_2021.shp     | vector      | polygon | Districts of Botswana                                       |
+| 2  | BWA_Pop_2020.tif | raster      | tiff    | Botswana Population 2020     |
 
   The two figures below display the specific parameter settings and the output of the tool.
 
 |         Parameters setting     |       Output        |
 |:---------------------------------------:|:---------------------------------------------:|
-| <img src="../../../img/gui/window/m2_zonalstats_ParametersSetting.png" alt= "Add data to Map Canvas" width="565">   |  <img src="../../../img/map/m2_zonalstats_Output.png" alt= "Add data to Map Canvas" width="530">   |
+| <img src="../../../img/gui/window/m2Zonal_Statistics_Para.png" alt= "Add data to Map Canvas" width="565">   |  <img src="../../../img/map/m2Zonal_Statistics_Out.png" alt= "Add data to Map Canvas" width="530">   |
 
 In the output map, we used _Reds_
 [Graduated Color](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#33-change-symbology-of-a-layer)
-to indicate different ranges of the number of population in Ghana.
+to indicate different ranges of the number of population in Botswana.
 Specifically, the darker the red the higher the number of population.
 
 ## 6. Select by Location
@@ -239,20 +237,20 @@ are interested in.
 
 ### 6.2 Example
 In the following example, we use this tool to select all the districts
-within a 100-kilometer buffer of the railway line in Ghana.
+within a 100-kilometer buffer of the railway line in Botswana.
 
   The datasets used are listed below:
 
 | ID | File Name           | Data Format | Type    | Description                                                 |
 |----|---------------------|-------------|---------|-------------------------------------------------------------|
-| 1  | Gh_260_MMDA.shp             | vector      | polygon | Districts of Ghana              |
-| 2  | RailwayLine.shp             | vector      | line    | Railway line in Ghana           |
+| 1  | BWA_ADM_2021.shp    | vector      | polygon | Districts of Botswana               |
+| 2  | BWA_Raillines.shp   | vector      | line    | Railway Lines in Botswana           |
 
   The two figures below display the specific parameter settings and the output of the tool.
 
 |         Parameters setting     |       Output        |
 |:---------------------------------------:|:---------------------------------------------:|
-| <img src="../../../img/gui/window/m2_selectbylocation_ParametersSetting.png" alt= "Add data to Map Canvas" width="570">   |  <img src="../../../img/map/m2_selectbylocation_Output.png" alt= "Add data to Map Canvas" width="521">   |
+| <img src="../../../img/gui/window/m2Select_Location_Para.png" alt= "Add data to Map Canvas" width="570">   |  <img src="../../../img/map/m2Select_Location_Out.png" alt= "Add data to Map Canvas" width="521">   |
 
 In the output map, we used Green color to indicate the served area of railway
 in Ghana.
