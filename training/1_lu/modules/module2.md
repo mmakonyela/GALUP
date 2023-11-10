@@ -134,7 +134,7 @@ of the tool.
 
 |          Parameter Setting         |    Output   |
 |:------------------------------------------:|:------------------------------------------:|
-| <img src ="../../../img/gui/window/m2Reclasify_Field_Para.png" width="450">| <img src ="../../../img/map/m2Reclasify_Field_Out.png" width="460">|
+| <img src ="../../../img/gui/window/m2Reclasify_Field_Para.png" width="440">| <img src ="../../../img/map/m2Reclasify_Field_Out.png" width="450">|
 
 ## 4. Spatial Join
 
@@ -179,7 +179,7 @@ The datasets used are listed below:
 The two figures below display the specific parameter settings and the output of the tool.
 |         Parameters setting     |       Output        |
 |:------------------------------:|:------------------------------------------:|
-| <img src="../../../img/gui/window/m2Spatial_joint_Para.png" alt= "Add data to Map Canvas" width="400">   |  <img src="../../../img/map/m2Spatial_Joint_Out.png" alt= "Add data to Map Canvas" width="480">   |
+| <img src="../../../img/gui/window/m2Spatial_joint_Para.png" alt= "Add data to Map Canvas" width="400">   |  <img src="../../../img/map/m2Spatial_Joint_Out.png" alt= "Add data to Map Canvas" width="440">   |
 
 In the output map,  we used Reds
 [Graduated Color](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module1.md#33-change-symbology-of-a-layer)
