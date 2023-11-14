@@ -235,7 +235,7 @@ The **Inputs** used by this model are listed below:
 | 1  | `Vector Layer`| Input Polygon   | Polygon       | *THLD_poly.shp*            | IDUs in the THLD District Assembly         |
 | 2  | `Vector Layer`| Major Roads     | Line          | *primary_road.shp*         | Primary road in THLD District              |
 | 3  | `Vector Layer`| Secondary Roads | Line          | *secondary_road.shp*       | Secondary road in THLD District            |
-| 4  | `String`      | Weighted Value  | n/a           | *0.75,0.25*                | Weights used to sum the different criteria |
+| 4  | `String`      | Weighted Value  | n/a           | *0.70,0.30*                | Weights used to sum the different criteria |
 
 > :bulb: Note:<br>
 > Inputs are denoted by ![Input](../../../img/gui/menu/qgm_input.svg) in all diagrams
