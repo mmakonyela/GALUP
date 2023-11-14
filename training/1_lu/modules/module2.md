@@ -252,8 +252,8 @@ within a 100-kilometer buffer of the railway line in Botswana.
 |:---------------------------------------:|:---------------------------------------------:|
 | <img src="../../../img/gui/window/m2Select_Location_Para.png" alt= "Add data to Map Canvas" width="470">   |  <img src="../../../img/map/m2Select_Location_Out.png" alt= "Add data to Map Canvas" width="521">   |
 
-In the output map, we used Green color to indicate the served area of railway
-in Ghana.
+In the output map, we used Orange color to indicate the served area of railway
+in Botswana.
 
 ## 7. Exercises and Post-training Survey
 
