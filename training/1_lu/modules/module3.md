@@ -232,9 +232,9 @@ The **Inputs** used by this model are listed below:
 
 | ID | Input Element | Parameter Name  | Geometry Type | Data used to run the model | Description                                |
 |----|---------------|-----------------|---------------|----------------------------|--------------------------------------------|
-| 1  | `Vector Layer`| Input Polygon   | Polygon       | *THLD_poly.shp*            | IDUs in the THLD District Assembly         |
-| 2  | `Vector Layer`| Major Roads     | Line          | *primary_road.shp*         | Primary road in THLD District              |
-| 3  | `Vector Layer`| Secondary Roads | Line          | *secondary_road.shp*       | Secondary road in THLD District            |
+| 1  | `Vector Layer`| Input Polygon   | Polygon       | *THLD_poly.shp*            | IDUs in the THLD District (edit) Assembly         |
+| 2  | `Vector Layer`| Primary Roads     | Line          | *primary_road.shp*         | Primary road in THLD (edit)District              |
+| 3  | `Vector Layer`| Secondary Roads | Line          | *secondary_road.shp*       | Secondary road in THLD (edit) District            |
 | 4  | `String`      | Weighted Value  | n/a           | *0.70,0.30*                | Weights used to sum the different criteria |
 
 > :bulb: Note:<br>
