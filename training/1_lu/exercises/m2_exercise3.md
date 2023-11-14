@@ -4,22 +4,22 @@
 
 This exercise will practice:
 
-- [Select by Location](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module2.md#26-select-by-location)
+- [Select by Location](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#26-select-by-location)
 
 ## 2. Description
 
-Normally, the residential areas will be built near the education facilities so that it will be convenient for the education of children. In this exercise, we will help to find out the IDUs of THLD that are in proximity (within the 1 miles) to the education facility by using the [Select by Location](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module2.md#26-select-by-location) tool.
+Normally, the cattle posts will be placed near a water source like borehole so that it will be convenient to water livestock. In this exercise, we will help to find out the IDUs of Pandamatenga landscape that are in proximity (within the 1 miles) to a borehole by using the [Select by Location](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#26-select-by-location) tool.
 
 ## 3. GIS Dataset
 
 The following datasets are used in this exercises:
-- _THLD\_poly.shp_ at
-`GALUP-master -> training -> 1_lu -> datasets -> IDUs in the THLD District`.
-- _Education\_Facilities.shp_ at `GALUP-master -> training -> 1_lu -> datasets -> Education facilities in THLD District`.
+- _PND\_IDUs.shp_ at
+`GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Landscape IDUs`.
+- _Cattle\_Posts.shp_ at `GALUP-master -> training -> 1_lu -> datasets -> Cattle Posts Location in Pandamatenga Landscape`.
 
 ## 4. Instruction
 
-1. Locate _THLD\_poly.shp_ and _Education\_Facilities.shp_ in the
+1. Locate _PND\_IDUs.shp_ and _Cattle\_Posts.shp_ in the
    **_Browser Panel_** and add them to **_Map Canvas_**.
 2. In the **_Processing Toolbox_** panel, locate the
    **<ins>Select by Location</ins>** tool under _Scripts_
