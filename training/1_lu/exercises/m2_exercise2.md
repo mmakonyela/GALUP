@@ -9,7 +9,7 @@ This exercise will practice:
 ## 2. Description
 
 The distance to a point of interest in a district is one common measure of that area's accessibility to tourism resources.
-In the Pandamatenga Landscape, we want to explore busisness opportunuties and build a tourism facicility to improve all Integrated Decision Units' (IDUs) accessibility to points of interest.
+In the Pandamatenga Landscape, we want to explore busisness opportunuties and build a tourism facility to improve all **Integrated Decision Units' _(IDUs)_** accessibility to points of interest.
 In the first step of the tourism facility location selection, we need to find out those areas with relatively less access to points of interst by measuring the distances to those points.
 In this exercise, we will visualize the distance to Points of Interest in the Panadamatenga landscape by using the [Distance to Point Features](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#22-distance-to-point-features) tool.
 
