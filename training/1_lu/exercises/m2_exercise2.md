@@ -24,18 +24,18 @@ The following datasets are used in this exercises:
 	
 ## 4. Instruction
 
-1. Locate _Health\_Facilities.shp_ and _THLD\_poly.shp_ in the **_Browser Panel_** and add them to **_Map Canvas_**.
+1. Locate _PND_POI.shp_ and _PND_IDUs.shp_ in the **_Browser Panel_** and add them to **_Map Canvas_**.
 2. In the **_Processing Toolbox_** panel, locate the
-   **<ins>Distance to Point Features</ins>** tool under **_Scripts_**
-   <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">.
+   **<ins>Distance to Point Features</ins>** tool under **_PyLUSATQ_**
+<img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">.
 3. **Double Click** to open the tool and set parameters as follows:
    <ol type="a">
-      <li><b>Input layer</b>: THLD_poly,</li>
-      <li><b>Point layer</b>: Health_Facilities,</li>
+      <li><b>Input layer</b>: PND_IDUs,</li>
+      <li><b>Point layer</b>: PND_POI,</li>
       <li><b>Distance method</b>: Euclidean,</li>
       <li><b>Output data type</b>: Float,</li>
-      <li><b>Output column name</b>: HF_Dis,</li>
-      <li><b>Output shapefile</b>: HFDisMap.shp,</li>
+      <li><b>Output column name</b>: POI_Dis,</li>
+      <li><b>Output shapefile</b>: POIDisMap.shp,</li>
       <li>leave all other parameters as default.</li>
    </ol>
 4. Click **Run**.
@@ -46,7 +46,7 @@ The following datasets are used in this exercises:
    Select the ![graduated](../../../img/gui/icon/rendererGraduatedSymbol.svg)
    Graduated style.
    Choose the [_Natural Breaks (Jenks)_](http://wiki.gis.com/wiki/index.php?title=Jenks_Natural_Breaks_Classification&oldid=763049).
-   Specify the _HF\_Dis_ field as **Value**, then choose the _Reds_ color ramp
+   Specify the _POI_Dis_ field as **Value**, then choose the _Reds_ color ramp
    with 5 classes. Click **Apply**.
 6. Click **OK** on the **Symbology** tab.
 7. Create a _Layout_, then add _Legend_, _Scale bar_, and _North Arrow_ to the
@@ -56,6 +56,6 @@ The following datasets are used in this exercises:
 ## 5.Result
 
 - Upon completion, the map you got should look similar to this pdf
-  [here](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/pdf_maps/DistanceToHF.pdf).
+  [here](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/DistanceToHF.pdf).
 - Please go back to
-  [Module 2](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to complete the third exercise.
+  [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to complete the third exercise.
