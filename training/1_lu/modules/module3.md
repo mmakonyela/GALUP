@@ -173,13 +173,13 @@ for a detailed introduction to the **Graphical Modeler**.
 > <ul>
 >   <li><i>Slope_Percent.tif</i> at
 >   <code>
->     GALUP-master -> training -> 1_lu -> datasets -> Slope_Percent
+>     GALUP-master -> training -> 1_lu -> datasets -> Slope_Percent (Uploaded to Google Drive)
 >   </code>
 >   </li>
 >   <li><i>Hydro.shp</i> at
 >   <code>
 >     GALUP-master -> training -> 1_lu -> datasets ->
->     Underground water veins in THLD District
+>     Underground water veins in THLD District (replace with Chobe Rivers)
 >   </code>
 >   </li>
 > </ul>
