@@ -115,8 +115,8 @@ For details of the classification please check the above
     <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">,
     and rename it **Rec Slope Percent**, then set parameters.
 14. Add _String_, name it as **7_Weight by LC Slope**, and then set
-    **Default value** as 0.5,0.5 which suggests **land cover** and **slope**
-    are equally important.
+    **Default value** as 0.7,0.3 which suggests **land cover** is given 70% priority compared to **slope**
+    30%.
 15. Remove prefix **7_** in name.
 16. Add the **<ins>Weighted Sum of Fields</ins>** tool under **_Scripts_**
     <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">,
