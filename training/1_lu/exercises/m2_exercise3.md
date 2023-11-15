@@ -27,23 +27,23 @@ to grow sorghum in the Pandamatenga landscape by using the [Reclassify Field](ht
 ## 3. GIS Dataset
 
 You should use the following data to finish this exercise:
-- _SD5\_15.tif_ at
-`GALUP-master -> training -> 1_lu -> datasets -> Soil pH 5_15 in THLD District`
+- _ClayContent.tif_ at
+`GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Clay Content`
 - _PND_IDUs.shp_ at
 `GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Landscape IDUs`
 ## 4. Instruction
 
-1. Locate _SD5\_15.tif_ and _THLD\_poly.shp_ in the **_Browser Panel_** and add them to **_Map Canvas_**.
+1. Locate _ClayContent.tif_ and _PND_IDUs.shp_ in the **_Browser Panel_** and add them to **_Map Canvas_**.
 2. In the **_Processing Toolbox_** panel, locate the
    **<ins>Zonal Statistics</ins>** tool under **_PyLUSATQ_**
 <img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20"> plugin.
 3. **Double Click** to open the tool and set parameters as follows:
    <ol type="a">
-      <li><b>Input layer</b>: THLD_poly,</li>
-      <li><b>Raster layer</b>: SD5_15,</li>
+      <li><b>Input layer</b>: PND_IDUs,</li>
+      <li><b>Raster layer</b>: ClayContent,</li>
       <li><b>Types of statistics</b>: mean,</li>
-      <li><b>Output column prefix</b>: SpH,</li>
-      <li><b>Output layer</b>: SpH.shp,</li>
+      <li><b>Output column prefix</b>: Clay_Cont,</li>
+      <li><b>Output layer</b>: ClayCont.shp,</li>
       <li>leave all other parameters as default.</li>
    </ol>
 4. Click **Run**.
@@ -51,12 +51,12 @@ You should use the following data to finish this exercise:
 <img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20"> plugin.
 6. **Double Click** to open the tool and set parameters as follows:
    <ol type="a">
-      <li><b>Input layer</b>: SpH,</li>
-      <li><b>Field to reclassify</b>: SpH_mean,</li>
-      <li><b>Old values</b>: 40-50, 50-55, 55-65,</li>
-      <li><b>New values</b>: 1, 2, 3,</li>
-      <li><b>Output column name</b>: SpH_re,</li>
-      <li><b>Output layer</b>: SpH_re.shp,</li>
+      <li><b>Input layer</b>: ClayCont,</li>
+      <li><b>Field to reclassify</b>: Clay_Cont_mean,</li>
+      <li><b>Old values</b>: 6.4-10.5, 10.5-13.1, 13.1-33.5, 33.5-38.5, 38.5-60.1,</li>
+      <li><b>New values</b>: 1, 2, 3, 4, 5, </li>
+      <li><b>Output column name</b>: ClayReclas,</li>
+      <li><b>Output layer</b>: Reclassed_ClayContent.shp,</li>
       <li>leave all other parameters as default.</li>
    </ol>
 7. Click **Run**.
