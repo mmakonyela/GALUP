@@ -1,4 +1,4 @@
-# Module 2 - Exercise 4
+# Module 2 - Exercise 3
 
 ## 1. Skills Practices
 
