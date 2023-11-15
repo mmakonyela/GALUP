@@ -23,7 +23,7 @@ below, in which **Green** areas indicate better suitability and **Red** areas
 suggest lower suitability considering two factors: (a) *transportation access*
 and (b) *market proximity*.
 
-<img src="../../../img/map/m3_aggregation_market_trans.png" width="500">
+<img src="../../../img/map/m3_aggregation_market_transBW.png" width="500">
 
 > :bulb: Note:<br>
 > This "GREEN(good)-RED(bad)" symbology style is a convention that has been
@@ -211,8 +211,7 @@ We will see how we can build an independent suitability model in QGIS for
 each criterion.
 Of these four models, the first two are presented below, while the last two
 will be used for exercises.
-In this module, we still use *Twifo-Hemang-Lower-Denkyira* (THLD) District
-Assembly as our study area and the **Integrated Decision Units** (IDUs) that we
+In this module, we still use *Pandamatenga* (PND) Landscape as our study area and the **Integrated Decision Units** (IDUs) that we
 have seen in the last module as the study land units.
 
 ### 3.1 Transportation Accessibility Model
@@ -232,9 +231,9 @@ The **Inputs** used by this model are listed below:
 
 | ID | Input Element | Parameter Name  | Geometry Type | Data used to run the model | Description                                |
 |----|---------------|-----------------|---------------|----------------------------|--------------------------------------------|
-| 1  | `Vector Layer`| Input Polygon   | Polygon       | *THLD_poly.shp*            | IDUs in the THLD District (edit) Assembly         |
-| 2  | `Vector Layer`| Primary Roads     | Line          | *primary_road.shp*         | Primary road in THLD (edit)District              |
-| 3  | `Vector Layer`| Secondary Roads | Line          | *secondary_road.shp*       | Secondary road in THLD (edit) District            |
+| 1  | `Vector Layer`| Input Polygon   | Polygon       | *PND_IDU.shp*            | Pandamatenga Landscape IDUs          |
+| 2  | `Vector Layer`| Primary Roads     | Line          | *primary_road.shp*         | Primary road in PND              |
+| 3  | `Vector Layer`| Secondary Roads | Line          | *secondary_road.shp*       | Secondary roads in PND            |
 | 4  | `String`      | Weighted Value  | n/a           | *0.70,0.30*                | Weights used to sum the different criteria |
 
 > :bulb: Note:<br>
