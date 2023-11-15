@@ -56,6 +56,6 @@ The following datasets are used in this exercises:
 ## 5.Result
 
 - Upon completion, the map you got should look similar to this pdf
-  [here](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/M2E1_DisPoi.pdf).
+  [here](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/M2E1_DisPi.pdf).
 - Please go back to
   [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to complete the third exercise.
