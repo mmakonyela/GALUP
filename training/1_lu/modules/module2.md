@@ -260,7 +260,6 @@ in Botswana.
 - Please complete the [Exercise 1](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m2_exercise1.md).
 - Please complete the [Exercise 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m2_exercise2.md).
 - Please complete the [Exercise 3](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m2_exercise3.md).
-- Please complete the [Exercise 4](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m2_exercise4.md).
 - Please submit your exercises [here](https://github.com/SERVIR-WA/GALUP/issues/new?assignees=muribasterra&labels=exercise+w1m2&milestone=Module+2+Exercises&template=w1m2-exercise-submission.md&title=Module+2+exercises+%5Breplace+with+your+name%5D).
 
 ## 8. What's Next?
