@@ -374,7 +374,7 @@ of the **Soil Condition** model.
 The table below shows the **parameter settings** for each algorithm used in
 this model.
 
-![SCM_setting](../../../img/qgm/algtbl/m3_gm_setting_table.svg)
+![SCM_setting](../../../img/qgm/algtbl/m3_gm_setting_tables.svg)
 
 <sup>*</sup>
 Note: Parameters were left as default if not mentioned in the table above.
