@@ -60,13 +60,13 @@ You should use the following data to finish this exercise:
       <li>leave all other parameters as default.</li>
    </ol>
 7. Click **Run**.
-8. Now let's setup the **Symbology** of the output layer (_SpH\_re.shp_).
+8. Now let's setup the **Symbology** of the output layer (_Reclassed\_ClayContent.shp_).
    Open the
    <img src="../../../img/gui/icon/symbology.svg" alt= "AttrTbl" width="20">
    Symbology tab from the **_Layer Properties_** window.
    Select the ![categorized](../../../img/gui/icon/rendererCategorizedSymbol.svg)
    Categorized style.
-   Specify the _SpH\_re_ field as **Value**, then choose the _Greens_ color ramp
+   Specify the _ClayReclas_ field as **Value**, then choose the _Greens_ color ramp
    with 3 classes. Click **Apply**.
 9. Click **OK** on the **Symbology** tab.
 10. Create a _Layout_, then add _Legend_, _Scale bar_, and _North Arrow_ to the
