@@ -67,7 +67,7 @@ You should use the following data to finish this exercise:
    Select the ![categorized](../../../img/gui/icon/rendererCategorizedSymbol.svg)
    Categorized style.
    Specify the _ClayReclas_ field as **Value**, then choose the _Greens_ color ramp
-   with 3 classes. Click **Apply**.
+   with 5 classes. Click **Apply**.
 9. Click **OK** on the **Symbology** tab.
 10. Create a _Layout_, then add _Legend_, _Scale bar_, and _North Arrow_ to the
    layout.
@@ -76,7 +76,7 @@ You should use the following data to finish this exercise:
 ## 5.Result
 
 - Upon completion, the map you got should look similar to this pdf
-  [here](../pdf_maps/M2E3_ClayCont.pdf)
+  [here](../pdf_maps/M2E3_ClayCon.pdf)
 - Now you have completed all exercises. Please go back to
   [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to turn in them.
 
