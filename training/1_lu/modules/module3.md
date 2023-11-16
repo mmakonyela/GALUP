@@ -381,7 +381,7 @@ Note: Parameters were left as default if not mentioned in the table above.
 
 | Model Dialog        |    Output Map   |
 |------------------------------------------|------------------------------------------|
-| ![PS1](../../../img/gui/window/m3_soil_conditionPS.png) | ![am1](../../../img/map/m3_symbology_sc.png) |
+| ![PS1](../../../img/gui/window/m3_soil_conPara.png) | ![am1](../../../img/map/m3_soil_conOut.png) |
 
 #### 3.2.4 Video Tutorial
 
