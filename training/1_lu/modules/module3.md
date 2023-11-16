@@ -232,7 +232,7 @@ The **Inputs** used by this model are listed below:
 | ID | Input Element | Parameter Name  | Geometry Type | Data used to run the model | Description                                |
 |----|---------------|-----------------|---------------|----------------------------|--------------------------------------------|
 | 1  | `Vector Layer`| Input Polygon   | Polygon       | *PND_IDU.shp*            | Pandamatenga Landscape IDUs          |
-| 2  | `Vector Layer`| Primary Roads     | Line          | *primary_road.shp*         | Primary road in PND              |
+| 2  | `Vector Layer`| Primary Roads   | Line          | *primary_road.shp*         | Primary road in PND              |
 | 3  | `Vector Layer`| Secondary Roads | Line          | *secondary_road.shp*       | Secondary roads in PND            |
 | 4  | `String`      | Weighted Value  | n/a           | *0.70,0.30*                | Weights used to sum the different criteria |
 
@@ -381,7 +381,7 @@ Note: Parameters were left as default if not mentioned in the table above.
 
 | Model Dialog        |    Output Map   |
 |------------------------------------------|------------------------------------------|
-| ![PS1](../../../img/gui/window/m3_soil_conPara.png) | ![am1](../../../img/map/m3_soil_conOut.png) |
+<img src="../../../img/gui/window/m3_soil_conPara.png" alt= "Add data to Map Canvas" width="450">   |  <img src="../../../img/map/m3_soil_conOut.png" alt= "Add data to Map Canvas" width="600">
 
 #### 3.2.4 Video Tutorial
 
