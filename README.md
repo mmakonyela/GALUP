@@ -22,7 +22,7 @@ technologies to inform and ensure sustainable land use practices in Chobe.
 > **Co-authors**: Mogae Makonyela, Silas Achidago and Lynn Fanikiso
 
 1. [Module 1 - Software and Data Preparation](https://github.com/mogaetkpp/GALUP/tree/master/training/1_lu/modules/module1.md)
-2. [Module 2 - Introduction to LUCIS-OPEN Tools for QGIS](https://github.com/mogaetkpp/GALUP/tree/master/training/1_lu/modules/module)
+2. [Module 2 - Introduction to LUCIS-OPEN Tools for QGIS](https://github.com/mogaetkpp/GALUP/tree/master/training/1_lu/modules/module2.md)
 3. [Module 3 - Create Suitability Models with QGIS Graphical Modeler](https://github.com/mogaetkpp/GALUP/tree/master/training/1_lu/modules/module)
 4. [Module 4 - Aggregate Results to Make Land-Use Decisions](https://github.com/mogaetkpp/GALUP/tree/master/training/1_lu/modules/module)
 
