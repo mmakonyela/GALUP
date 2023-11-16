@@ -171,15 +171,15 @@ for a detailed introduction to the **Graphical Modeler**.
 > </ul>
 > And, the following datasets as <b>inputs</b>:
 > <ul>
->   <li><i>Slope_Percent.tif</i> at
+>   <li><i>PND_Slope_Percent.tif</i> at
 >   <code>
->     GALUP-master -> training -> 1_lu -> datasets -> Slope_Percent (Uploaded to Google Drive)
+>     GALUP-master -> training -> 1_lu -> datasets -> Panadamatenga Slope Percent
 >   </code>
 >   </li>
->   <li><i>Hydro.shp</i> at
+>   <li><i>PND_Rivers.shp</i> at
 >   <code>
 >     GALUP-master -> training -> 1_lu -> datasets ->
->     Underground water veins in THLD District (replace with Chobe Rivers)
+>     Rivers in the Pandamatenga Landscape
 >   </code>
 >   </li>
 > </ul>
@@ -275,7 +275,7 @@ Note: Parameters were left as default if not mentioned in the table above.
 
 | Model Dialog         |    Output Map    |
 |------------------------------------------|------------------------------------------|
-| <img src="../../../img/gui/window/m3_transportation_accessibilityPS.png" alt= "Add data to Map Canvas" width="540">   |  <img src="../../../img/map/m3_transportation_accessibility.png" alt= "Add data to Map Canvas" width="600">   |
+| <img src="../../../img/gui/window/m3_trans_accessPara.png" alt= "Add data to Map Canvas" width="540">   |  <img src="../../../img/map/m3_trans_accessOut.png" alt= "Add data to Map Canvas" width="600">   |
 
 In the output map, we used the ***Greens*** color ramp to indicate **five**
 different levels of transportation accessibility in the THLD District Assembly.
@@ -305,9 +305,9 @@ The **Inputs** used by this model are listed below:
 
 | ID | Input Element  | Parameter Name             | Data Used to Run the Model                 | Description                         |
 |----|----------------|----------------------------|--------------------------------------------|-------------------------------------|
-| 1  | `Vector Layer` | Input Polygon              | *THLD_poly.shp*                            | IDUs in the THLD District Assembly  |
-| 2  | `Raster Layer` | Root Zone Depth            | *RZD_THLD100.tif*                          | Root Zone Depth**                   |
-| 3  | `Raster Layer` | Drainage                   | *Drain_THLD100.tif*                        | Soil Drainage***                    |
+| 1  | `Vector Layer` | Input Polygon              | *PND_IDUs.shp*                            | Pandamatenga Landscape IDUs          |
+| 2  | `Raster Layer` | Root Zone Depth            | *RZD_PND100.tif*                          | Root Zone Depth**                   |
+| 3  | `Raster Layer` | Drainage                   | *Drain_PND100.tif*                        | Soil Drainage***                    |
 | 4  | `Raster Layer` | Soil (0-5 cm) PH Value     | *SD0_5.tif*                                | pH value at 0cm-5cm soil depth*     |
 | 5  | `Raster Layer` | Soil (5-15 cm) PH Value    | *SD5_15.tif*                               | pH value at 5cm-15cm soil depth*    |
 | 6  | `Raster Layer` | Soil (15-30 cm) PH Value   | *SD15_30.tif*                              | pH value at 15cm-30cm soil depth*   |
