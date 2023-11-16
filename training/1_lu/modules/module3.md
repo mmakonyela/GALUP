@@ -417,8 +417,6 @@ We certainly encourage you to include "Helps" for all the models you created.
   [Exercise 1](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m3_exercise1.md).
 - Please complete the
   [Exercise 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m3_exercise2.md).
-- Please take this post-training
-  [survey](https://ufl.qualtrics.com/jfe/form/SV_8w547pBqD15UScm) (required).
 - Please submit your exercises [here](https://tinyurl.com/2nd8knax).
 
 ## 6. What's Next?
