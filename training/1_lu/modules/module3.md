@@ -190,7 +190,7 @@ for a detailed introduction to the **Graphical Modeler**.
 ## 3. Modeling Suitability for Row Crops Farming
 
 In this module, we will use Row Crops Farming as an example to explore how to
-develop suitability models by connecting various **LUCIS-OPEN Tools for QGIS**
+develop suitability models by connecting various **OPEN-LUCIS Tools for QGIS**
 in the **QGIS Graphical Modeler**.
 As described in <a href="#sec1">Section 1</a> of this module,
 suitability modeling starts by **defining criteria**.
