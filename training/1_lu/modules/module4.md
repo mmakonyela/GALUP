@@ -212,7 +212,7 @@ each purpose as follows:
 
 After constructing the matrices,
 [Compute AHP Weights](https://github.com/SERVIR-WA/GALUP/wiki/Tools#compute-ahp-weights)
-in LUCIS-OPEN tools will be used to calculate local priorities for each matrix.
+in OPEN-LUCIS tools will be used to calculate local priorities for each matrix.
 
 The third step is to establish the global priorities of the suitable land use
 preference.
