@@ -154,8 +154,7 @@ For details of the classification please check the above
 
 - Upon completion, the map you got should look similar to this pdf
   [here](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/LandConditionMap.pdf).
-- Please go back to [Module 3](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module3.md#7-exercises-and-post-training-survey) to complete the
-  second exercise.
+- Please go back to [Module 3](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module3.md#5-Exercises) to complete the second exercise.
 
 ## 6.Reference
 
