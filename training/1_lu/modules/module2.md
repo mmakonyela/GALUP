@@ -1,8 +1,8 @@
-# Module 2 - Introduction to LUCIS-OPEN Tools for QGIS
+# Module 2 - Introduction to OPEN-LUCIS Tools for QGIS
 
 **What will you learn from this module?**
 
-- Get to know the LUCIS-OPEN Tools for QGIS,
+- Get to know the OPEN-LUCIS Tools for QGIS,
 - Learn when and how to use different tools,
 - Use the tools to answer planning-related questions.
 
