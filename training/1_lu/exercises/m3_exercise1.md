@@ -59,18 +59,18 @@ follows.
 
 The following datasets are used in the landscape condition model:
 
-- _THLD\_poly.shp_ at
-`GALUP-master -> training -> 1_lu -> datasets -> IDUs in the THLD District`
-- _Slope\_Percent.tif_ at
-`GALUP-master -> training -> 1_lu -> datasets -> Slope_Percent`
-- _iSDA\_MGRS.tif_ at
-`GALUP-master -> training -> 1_lu -> datasets -> Ghana Land Cover 2019`
+- _PND\_IDUs.shp_ at
+`GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Landscape IDUs` 
+- _PND\_Slope\_Percent.tif_ at
+`GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Slope Percent`
+- _PND\_LC2019.tif_ at
+`GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Land Cover 2019`
 
 <sup>*</sup> Note:
 The land cover data used in this exercise is the Collection 6 of Moderate
 Resolution Imaging Spectroradiometer (MODIS)<sup><a href="#ref2">2</a></sup>.
 For details of the classification please check the above
-<a href="#modis">tabel</a>.
+<a href="#modis">table</a>.
 
 ## 3. Instruction
 
