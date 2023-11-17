@@ -153,7 +153,7 @@ For details of the classification please check the above
 ## 5.Result
 
 - Upon completion, the map you got should look similar to this pdf
-  [here](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/pdf_maps/LandConditionMap.pdf).
+  [here](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/LandConditionMap.pdf).
 - Please go back to [Module 3](https://tinyurl.com/yn9hy6ca) to complete the
   second exercise.
 
