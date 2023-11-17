@@ -41,7 +41,7 @@ The first step to create a suitability model is to identify the criteria for
 the subject of the model.
 Each criterion identified should be instrumental in reaching the overall goal
 of the model.
-For example, if we want to locate a suitable site for an orchard, we might
+For example, if we want to locate a suitable site for a crop field, we might
 consider four criteria:
 
 - Soil permeability
