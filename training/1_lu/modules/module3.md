@@ -4,7 +4,7 @@
 
 - Understand the general workflow of suitability modeling,
 - Get to know the QGIS **Graphical Modeler**,
-- Learn how to build suitability models with LUCIS-OPEN tools for QGIS in the
+- Learn how to build suitability models with OPEN-LUCIS tools for QGIS in the
   Graphical Modeler,
 - Learn the details and the logic behind the suitability models for
   ***Row Crops***.
