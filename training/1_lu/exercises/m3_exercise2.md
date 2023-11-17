@@ -87,4 +87,4 @@ The following datasets are used in the landscape condition model:
 - Upon completion, the map you got should look similar to this pdf
   [here](../pdf_maps/rcrp_Market.pdf).
 - Now you have completed all exercises. Please go back to
-  [Module 3](https://tinyurl.com/yn9hy6ca) to turn in them.
+  [Module 3](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module3.md#5-Exercises) to turn in them.
