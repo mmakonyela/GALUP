@@ -51,7 +51,7 @@ consider four criteria:
 
 As it has been introduced in
 [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md),
-**LUCIS-OPEN Tools for QGIS** consists of various geospatial tools to measure
+**OPEN-LUCIS Tools for QGIS** consists of various geospatial tools to measure
 different criteria defined in a suitability analysis, such as *Distance*,
 *Density*, and *Zonal Statistics* tools.
 
