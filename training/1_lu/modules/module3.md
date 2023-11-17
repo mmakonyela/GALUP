@@ -368,8 +368,8 @@ of the **Soil Condition** model.
 >      <a href="#ref4">4</a>, <a href="#ref5">5</a>]
 >    </sup>
 >    of the **top six crops**<a href="#ref6"><sup>[6]</sup></a> (with respect
->    to annual yields) in the THLD District Assembly, which are *maize*,
->    *rice*, *cassava*, *yam*, *cocoyam*, and *plantain*.
+>    to annual yields) in the Pandamatenga farms, which are
+>    *sorghum*, *wheat*, *cowpeas*, *chickpeas*, *mungbean*, and *sunflower*.
 
 The table below shows the **parameter settings** for each algorithm used in
 this model.
