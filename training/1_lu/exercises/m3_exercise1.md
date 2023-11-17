@@ -100,40 +100,40 @@ For details of the classification please check the above
 7. Click **_Algorithms_**, Add the **<ins>Reclassify by table</ins>** tool
    under **_Raster analysis_**, and rename it **Add Value for Land Cover**,
    then set parameters as it shows in table (click advanced parameters).
-8. Add the **<ins>Zonal Statistics</ins>** tool under **_Scripts_**
-   <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">,
+8. Add the **<ins>Zonal Statistics</ins>** tool under **_PyLUSATQ_**
+<img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">,
    and rename it **Add LC to Polygon**, then set parameters.
 9.  Add _Raster Layer_ and name it **4_Slope**.
 10. Add two _String_, name one as **5_Parameters for LCC**, and then set
     **Default value** as: 0-2,2-8,8-15,15-25,25-45; and name another one as
     **6_LCC Classes**, and then set **Default value** as: 9,7,5,3,1.
 11. Remove all prefix **4_**, **5_**, **6_** in name.
-12. Add the **<ins>Zonal Statistics</ins>** tool under **_Scripts_**
-    <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">,
+12. Add the **<ins>Zonal Statistics</ins>** tool under **_PyLUSATQ_**
+<img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">,
     and rename it **Add Slope to Polygon**, then set parameters.
-13. Add the **<ins>Reclassify Field</ins>** tool under **_Scripts_**
-    <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">,
+13. Add the **<ins>Reclassify Field</ins>** tool under **_PyLUSATQ_**
+<img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">,
     and rename it **Rec Slope Percent**, then set parameters.
 14. Add _String_, name it as **7_Weight by LC Slope**, and then set
     **Default value** as 0.7,0.3 which suggests **land cover** is given 70% priority compared to **slope**
     30%.
 15. Remove prefix **7_** in name.
-16. Add the **<ins>Weighted Sum of Fields</ins>** tool under **_Scripts_**
-    <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">,
+16. Add the **<ins>Weighted Sum of Fields</ins>** tool under **_PyLUSATQ_**
+<img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">,
     and rename it **Weighted Sum LC & Slp**, then set parameters.
 17. **Save** the model in a desired location.
 
 ### 3.2 Run the model and visualize the result
 
-1. Locate _Slope\_Percent.tif_, _iSDA\_MGRS.tif_, and _THLD\_poly.shp_ in
+1. Locate _PND\_Slope\_Percent.tif_, _PND\_LC2019.tif_, and _PND\_IDUs.shp_ in
    the **_Browser Panel_** and add them to **_Map Canvas_**.
 2. In the **_Processing Toolbox_** panel, locate the
    <ins>**Landscape Condition**</ins> model.
 3. **Double Click** to open the model and set parameters as follows:
    <ol type="a">
-      <li><b>Input layer</b>: THLD_poly,</li>
-      <li><b>Land Cover</b>: iSDA_MGRS,</li>
-      <li><b>Slope</b>: Slope_Percent,</li>
+      <li><b>Input layer</b>: PND_IDUs,</li>
+      <li><b>Land Cover</b>: PND_LC2019,</li>
+      <li><b>Slope</b>: PND_Slope_Percent,</li>
       <li>leave all other parameters as default.</li>
    </ol>
 4. Click **Run**.
