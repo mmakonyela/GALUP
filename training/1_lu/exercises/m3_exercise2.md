@@ -18,29 +18,28 @@ row crops farming because distances to large, medium, and small markets
 (human settlements of different magnitudes) influence the sale potential of
 harvested crops.
 
-**Market model** aims to evaluate the suitability of IDUs in the THLD District
-Assembly for planting row crops by measuring the distance between each IDU and
-those markets (i.e., large city, medium city, and small city).
+**Market model** aims to evaluate the suitability of IDUs in the Pandamatenga Landscape for planting row crops by measuring the distance between each IDU and
+those markets (i.e., large market, medium market, and small market).
 
 ### 2.2 Model Datasets
 
 The following datasets are used in the landscape condition model:
 
-- _THLD\_poly.shp_ at
-  `GALUP-master -> training -> 1_lu -> datasets -> IDUs in the THLD District`
-- _LargeCity\_pt.shp_ at
-  `GALUP-master -> training -> 1_lu -> datasets -> Large_City_Point`
-- _MediumCity\_pt.shp_ at
-  `GALUP-master -> training -> 1_lu -> datasets -> Medium_City_Point`
-- _SmallCity\_pt.shp_ at
-  `GALUP-master -> training -> 1_lu -> datasets -> Small_City_Point`
+- _PND\_IDUs.shp_ at
+  `GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Landscape IDUs`
+- _Large\_Market.shp_ at
+  `GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Crop Markets`
+- _Medium\_Market.shp_ at
+  `GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Crop Markets`
+- _Small\_Market.shp_ at
+  `GALUP-master -> training -> 1_lu -> datasets -> Pandamatenga Crop Markets`
 
 ## 3. Instruction
 
 ![marketmodelmap](../../../img/qgm/model/Market.svg)
 
-1. Locate _LargeCity\_pt.shp_, _MiddleCity\_pt.shp_, _SmallCity\_pt.shp_ and
-   _THLD\_poly.shp_ in the **_Browser Panel_** and add them to
+1. Locate _Large\_Market.shp_, _Medium\_Market.shp_, _Small\_Market.shp_ and
+   _PND\_IDUs.shp_ in the **_Browser Panel_** and add them to
    **_Map Canvas_**.
 2. In the _Menu Toolbar_, click _Processing_ and open
    ![gm](../../../img/gui/icon/processingModel.svg) `Graphical Modeler...` .
@@ -50,12 +49,12 @@ The following datasets are used in the landscape condition model:
    - a _Vector Features_ input, and name the _Parameter name_ as
      **1_Input Polygon** and leave others as default, then click **OK**.
    - ***three*** _Point_ inputs, and set the _Parameter name_ as
-     **2_Large cities**, **3_Medium cities**, and **4_Small cities**
+     **2_Large markets**, **3_Medium markets**, and **4_Small markets**
      respectively, and leave others as default, then click **OK**.
    - a _String_ input, set the _Description_ as
-     **5_Weights by City Level** and type `0.6, 0.3, 0.1` as the
-     _Default value_ (weights for Large cities, Medium cities, and Small
-     cities), and then click **OK**.
+     **5_Weights by Market Level** and type `0.6, 0.3, 0.1` as the
+     _Default value_ (weights for Large markets, Medium markets, and Small
+     markets), and then click **OK**.
 5. Parameter settings for each **algorithm**:<br>
    ![m1](../../../img/qgm/algtbl/m3_e2_market.svg)
 6. **Edit** inputs names, i.e., delete the prefixes (number and underscore) in
@@ -64,10 +63,10 @@ The following datasets are used in the landscape condition model:
    Click ![st](../../../img/gui/icon/mActionStart.svg) `Run model`  on the top menu
    bar of the window to **run** the _Market_ model.
 8. Set the model as follows:
-   - **Input polygon**: _THLD\_poly_.
-   - **Large cities**: _LargeCity\_pt_.
-   - **Medium cities**: _MediumCity\_pt_.
-   - **Small cities**: _SmallCity\_pt_.
+   - **Input polygon**: _PND\_IDUs_.
+   - **Large cities**: _Large\_Market_.
+   - **Medium cities**: _Medium\_Market_.
+   - **Small cities**: _Small\_Market_.
    - Leave the rest of the parameters as default.
    - Click **Run**.
 9. Now, let's set up the **Symbology** of the output layer _rcrp\_Market_.
