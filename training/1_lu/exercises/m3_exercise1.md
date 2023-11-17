@@ -94,7 +94,7 @@ For details of the classification please check the above
 4. Add a *Raster Layer* input, and name it **2_Land Cover**.
 5. Add a _Matrix_ input, and name it **3_Add Value for Land Cover**, and then
    set table as following:
-   <img src="../../../img/gui/window/m3_e1_Matrix.png" alt= "Matrix" width="400">
+   <img src="../../../img/gui/window/m3_e1_MatrixPara.png" alt= "Matrix" width="400">
 6. Remove all prefix **1_**, **2_**, **3_** in name.
    <img src="../../../img/qgm/algtbl/m3_e1_landscapecondition.svg" alt= "Toolsettings" width="1000">
 7. Click **_Algorithms_**, Add the **<ins>Reclassify by table</ins>** tool
