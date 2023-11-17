@@ -411,7 +411,7 @@ graphical modeler to start editing the documentation for your model.
 This is a "***bonus***" credit for the **exercises** as well.
 We certainly encourage you to include "Helps" for all the models you created.
 
-## 5. Exercises and Post-training Survey
+## 5. Exercises 
 
 - Please complete the
   [Exercise 1](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/exercises/m3_exercise1.md).
