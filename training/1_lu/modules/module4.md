@@ -1,4 +1,4 @@
-# Module 4 - Making Land-Use Decisions using the LUCIS Framework
+# Module 4 - Making Land-Use Decisions using the OPEN-LUCIS Framework
 
 - [Module 4 - Making Land-Use Decisions using the LUCIS Framework](#module-4---making-land-use-decisions-using-the-lucis-framework)
   - [1. The LUCIS Philosophy](#1-the-lucis-philosophy)
