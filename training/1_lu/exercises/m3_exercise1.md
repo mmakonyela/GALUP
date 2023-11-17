@@ -104,9 +104,9 @@ For details of the classification please check the above
 <img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">,
    and rename it **Add LC to Polygon**, then set parameters.
 9.  Add _Raster Layer_ and name it **4_Slope**.
-10. Add two _String_, name one as **5_Parameters for LCC**, and then set
-    **Default value** as: 0-2,2-8,8-15,15-25,25-45; and name another one as
-    **6_LCC Classes**, and then set **Default value** as: 9,7,5,3,1.
+10. Add two _String_, name one as **5_Parameters for LS**, and then set
+    **Default value** as: 0-2,2-4,4-6,6-9; and name another one as
+    **6_LS Classes**, and then set **Default value** as: 9,7,5,3.
 11. Remove all prefix **4_**, **5_**, **6_** in name.
 12. Add the **<ins>Zonal Statistics</ins>** tool under **_PyLUSATQ_**
 <img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20">,
