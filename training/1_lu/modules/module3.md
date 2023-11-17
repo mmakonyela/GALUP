@@ -367,7 +367,7 @@ of the **Soil Condition** model.
 >      [<a href="#ref2">2</a>, <a href="#ref3">3</a>,
 >      <a href="#ref4">4</a>, <a href="#ref5">5</a>]
 >    </sup>
->    of the **top six crops**<a href="#ref6"><sup>[6]</sup></a> (with respect
+>    of the **top six crops** (with respect
 >    to annual yields) in the Pandamatenga farms, which are
 >    *sorghum*, *wheat*, *cowpeas*, *chickpeas*, *mungbean*, and *sunflower*.
 
@@ -439,7 +439,3 @@ Module 4 - Making Land-Use Decisions using the LUCIS Framework
 5. <a id="ref5"></a>Albert, S. (2017, July 27). Plantain Organic Weed Control.
    Retrieved January 27, 2021,
    from https://harvesttotable.com/plantain-organic-weed-control.
-6. <a id="ref6"></a>An Agenda for Jobs: Creating Prosperity and Equal
-   Opportunity for All—District Medium Term Development Plan (2018-2021)
-   (2017). *District Planning Coordinating Unit (DPCU) of the Twifo Hemang*
-   *Lower Denkyira District Assembly*.
