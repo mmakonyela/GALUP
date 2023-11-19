@@ -10,7 +10,7 @@ This exercise will practice:
 
 As a planner, you are trying to make land-use decisions for THLD by using LUCIS.
 Now you have identified four agricultural land-use purposes (goals): **Row crops**,
-**Livestock**, **Timberland**, and **Orchards and groves**.
+**Livestock**, **Horticulture**, and **Orchards**.
 After finishing building up the suitability modeling for each land-use purpose,
 you are ready to assign weights to these four purposes by using AHP.
 Because these are agricultural land-use purposes, you asked four farmers about
@@ -18,7 +18,7 @@ their interests and find:
 
 - The first farmer mainly plants row crops.
 - The second farmer focuses on livestock.
-- The third farmer owns a sawmill.
+- The third farmer does vegetable production.
 - The fourth farmer is a owner of orchards.
 
 Four farmers assign land-use suitability weights to each purposes as follows:
@@ -28,7 +28,7 @@ Four farmers assign land-use suitability weights to each purposes as follows:
 Note that their opinions are equally weighted (i.e., 0.25 for each
 farmer).
 
-Use the **_Compute AHP Weights_** tool in LUCIS-OPEN to compute the weights
+Use the **_Compute AHP Weights_** tool in OPEN-LUCIS to compute the weights
 for the four land-use purposes.
 
 > :bulb: Note:<br>
@@ -40,9 +40,9 @@ for the four land-use purposes.
 2. Select **Define AHP weights** for _Weights generating options_.
 3. For the _List of criteria to weight_, click the "..." button and double
    click to change the default name "Criteria 1", "Criteria 2", and
-   "Criteria 3" to `Row crops`, `Livestock`, and `Timberland` respectively.
+   "Criteria 3" to `Row crops`, `Livestock`, and `Horticulture` respectively.
 4. Click **Add Row** button to add a new row and name it as
-   `Orchards and groves`. Then, click **OK**.
+   `Orchards`. Then, click **OK**.
 5. For the _Comparison table for creating the reciprocal matrix_, click the
    "..." button and add three new rows by click **Add Row** button. You need to
    fill out the values in each form in this table.
