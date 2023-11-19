@@ -61,5 +61,5 @@ for the four land-use purposes.
 ## 5.Result
 
 - Follow the steps above, put your result into a spread sheet and turn it in.
-- Please go back to [Module 4](https://tinyurl.com/yn9hy6ca) to complete the
+- Please go back to [Module 4] (https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module4.md#5-Exercises) to complete the
   third exercise.
