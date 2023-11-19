@@ -417,7 +417,6 @@ for determining weights between the two sub-objectives under either objectives.
 - Please complete [exercise 2](../exercises/m4_exercise2.md).
 - Please complete [exercise 3](../exercises/m4_exercise3.md).
 - Please submit your exercises [here](https://tinyurl.com/427mtu9t).
-- Please complete the survey for Module 4 [here](https://tinyurl.com/c7my5fym).
 - Please complete the post-training survey for your overall experiences with
-  the first GALUP workshop—Land-Use Suitability Analysis with QGIS Tools at
+  the CHOBE OPEN-LUCIS Training on Land-Use Suitability Analysis with QGIS Tools at
   [here](https://tinyurl.com/2m6cm4e8).
