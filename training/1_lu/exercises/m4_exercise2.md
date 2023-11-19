@@ -8,7 +8,7 @@ This exercise will practice:
 
 ## 2. Description
 
-As a planner, you are trying to make land-use decisions for THLD by using LUCIS.
+As a planner, you are trying to make land-use decisions for Pandamatenga by using LUCIS.
 Now you have identified four agricultural land-use purposes (goals): **Row crops**,
 **Livestock**, **Horticulture**, and **Orchards**.
 After finishing building up the suitability modeling for each land-use purpose,
