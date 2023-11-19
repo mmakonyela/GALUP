@@ -52,9 +52,7 @@ for Row Crops:
 3. Use **<ins>Join attributes by field value</ins>** tool
    under **_Vector general_** to join outcome fields into one vector layer.
 4. Use
-   **<ins>Weighted Sum of Fields</ins>** tool under **_Scripts_**
-   <img src="../../../img/gui/icon/processingScript.svg" alt= "scripts" width="20">
-   to calculate the weighted sum of sub-objectives by using the weight values
+   **<ins>Weighted Sum of Fields</ins>** tool under **_PyLUSATQ_**<img src="https://github.com/mogaetkpp/GALUP/blob/master/img/gui/icon/PyLUSATQ.svg" alt= "scripts" width="20"> to calculate the weighted sum of sub-objectives by using the weight values
    from rank sum method and rank reciprocal method.
 5. Now, let's set up the **Symbology** of the output layers.
    Open the
