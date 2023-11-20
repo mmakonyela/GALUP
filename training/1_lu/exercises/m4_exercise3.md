@@ -31,16 +31,16 @@ The following datasets are requested in the practice of weighting methods
 for Row Crops:
 
 - The outcome from
-  [Landscape Condition](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/pdf_maps/LandConditionMap.pdf)
+  [Landscape Condition](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/LandConditionMapPND.pdf)
   model
 - The outcome from
-  [Soil Condition](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/pdf_maps/SoilIndex.pdf)
+  [Soil Condition](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/SoilIndex.pdf)
   model
 - The outcome from
-  [Market](https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/pdf_maps/rcrp_Market.pdf)
+  [Market](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/rcrp_MarketPND.pdf)
   model
 - The outcome from
-  [Transportation Accessibility](https://github.com/SERVIR-WA/GALUP/blob/master/img/map/m3_transportation_accessibility.png)
+  [Transportation Accessibility](https://github.com/mogaetkpp/GALUP/blob/master/img/map/m3_trans_accessOut.png)
   model
 
 ## 3. Instruction
