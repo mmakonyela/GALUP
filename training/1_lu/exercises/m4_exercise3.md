@@ -34,7 +34,7 @@ for Row Crops:
   [Landscape Condition](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/LandConditionMapPND.pdf)
   model
 - The outcome from
-  [Soil Condition](https://github.com/mogaetkpp/GALUP/blob/master/training/img/map/m3_soil_conOut.png)
+  [Soil Condition](https://github.com/mogaetkpp/GALUP/blob/master/img/map/m3_soil_conOut.png)
   model
 - The outcome from
   [Market](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/pdf_maps/rcrp_MarketPND.pdf)
