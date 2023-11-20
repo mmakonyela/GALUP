@@ -19,7 +19,7 @@ their interests and find:
 - The first farmer mainly plants row crops.
 - The second farmer focuses on livestock.
 - The third farmer does vegetable production.
-- The fourth farmer is a owner of orchards.
+- The fourth farmer is an owner of orchards.
 
 Four farmers assign land-use suitability weights to each purposes as follows:
 
