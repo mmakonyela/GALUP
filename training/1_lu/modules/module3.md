@@ -263,7 +263,7 @@ of the **Transportation Accessibility** model.
 
 | Transportation Accessibility Model                                   |
 |----------------------------------------------------------------------|
-| ![TAM](../../../img/qgm/model/Market Proximity Graphic.svg) |
+| ![TAM](../../../img/qgm/model/m3_Transportation_Accessibility.svg) |
 
 The table below shows the **parameter settings** for each algorithm used in
 this model.
