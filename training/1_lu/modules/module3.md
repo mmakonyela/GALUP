@@ -381,7 +381,7 @@ Note: Parameters were left as default if not mentioned in the table above.
 
 | Model Dialog        |    Output Map   |
 |------------------------------------------|------------------------------------------|
-<img src="../../../img/gui/window/m3_soil_conPara.png" alt= "Add data to Map Canvas" width="450">   |  <img src="../../../img/map/m3_soil_conOut.png" alt= "Add data to Map Canvas" width="600">
+<img src="../../../img/gui/window/m3_soil_condition_PS_PND.png" alt= "Add data to Map Canvas" width="450">   |  <img src="../../../img/map/m3_soil_conOut.png" alt= "Add data to Map Canvas" width="600">
 
 #### 3.2.4 Video Tutorial
 
