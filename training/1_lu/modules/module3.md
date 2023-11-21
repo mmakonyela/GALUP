@@ -23,7 +23,7 @@ below, in which **Green** areas indicate better suitability and **Red** areas
 suggest lower suitability considering two factors: (a) *transportation access*
 and (b) *market proximity*.
 
-<img src="../../../img/map/m3_aggregation_market_trans50-50BW.png" width="500">
+<img src="../../../img/map/m3_proximityPND.png" width="500">
 
 > :bulb: Note:<br>
 > This "GREEN(good)-RED(bad)" symbology style is a convention that has been
