@@ -108,7 +108,7 @@ As shown in the Chobe District Population Projection by 2035 chart above, the tw
 dotted lines are two scenarios representing the upper and lower
 _confidence interval_ of the population projection by 2035.
 The middle solid line is the general scenario which indicates that there would
-be 71,060 people in the Chobe District by 2035.
+be 26,000 people in the Chobe District by 2035.
 Therefore, the goal is to develop more residential land uses in the
 Chobe District to _address the housing demands_.
 
