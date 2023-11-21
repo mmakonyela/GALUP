@@ -94,7 +94,7 @@ This section presents a concrete example of LUCIS's hierarchical structure,
 i.e., **goals**, **objectives** and **sub-objectives**.
 The most critical component of a land-use plan is that it must
 <ins>accommodate the projected population growth</ins>.
-In this example, we will use the THLD District Assembly and look at the
+In this example, we will use the Chobe District and look at the
 projected population in year 2035.
 
 <img src="../../../img/plot/THLD_pop2035_projection.svg" alt= "pop_pro" width="800">
@@ -309,7 +309,7 @@ row crops.
 
 The final suitability according to the above weights is shown below:
 
-<img src="../../../img/map/m4_row_crops_model_weightedvalue.png" alt= "RowCrops_model" width="600">
+<img src="../../../img/map/m3_aggregation_market_transBW.png" alt= "RowCrops_model" width="600">
 
 ## 4. Weighting Methods for MUA
 
