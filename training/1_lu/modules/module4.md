@@ -417,5 +417,5 @@ for determining weights between the two sub-objectives under either objectives.
 - Please complete [exercise 2](../exercises/m4_exercise2.md).
 - Please submit your exercises [here](https://tinyurl.com/427mtu9t).
 - Please complete the post-training survey for your overall experiences with
-  the CHOBE OPEN-LUCIS Training on Land-Use Suitability Analysis with QGIS Tools at
+  the CHOBE OPEN-LUCIS Training on Land-Use Suitability Analysis with QGIS Tools
   [here](https://tinyurl.com/2m6cm4e8).
