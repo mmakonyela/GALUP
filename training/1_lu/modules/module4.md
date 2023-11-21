@@ -104,13 +104,13 @@ projected population in year 2035.
 > https://landscan.ornl.gov/
 
 We can distill a **goal** from this intent for *socioeconomic activities*.
-As shown in the THLD Area Population Projection by 2035 chart above, the two
+As shown in the Chobe District Population Projection by 2035 chart above, the two
 dotted lines are two scenarios representing the upper and lower
 _confidence interval_ of the population projection by 2035.
 The middle solid line is the general scenario which indicates that there would
-be 71,060 people in THLD area.
+be 71,060 people in the Chobe District by 2035.
 Therefore, the goal is to develop more residential land uses in the
-THLD area to _address the housing demands_.
+Chobe District to _address the housing demands_.
 
 The **objectives** and **sub-objectives** are specified in the following table
 and the hierarchy relationship between goal, objectives and sub-objectives is
