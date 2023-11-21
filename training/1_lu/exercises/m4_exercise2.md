@@ -23,7 +23,7 @@ their interests and find:
 
 Four farmers assign land-use suitability weights to each purposes as follows:
 
-![farmers](../../../img/qgm/algtbl/m4_e2_aph_4farmers.svg)
+![farmers](../../../img/qgm/algtbl/m4_e2_aph_4farmers_1.svg)
 
 Note that their opinions are equally weighted (i.e., 0.25 for each
 farmer).
