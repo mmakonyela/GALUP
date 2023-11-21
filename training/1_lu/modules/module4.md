@@ -99,9 +99,10 @@ projected population in year 2035.
 
 <img src="../../../img/plot/ChobePop.png" alt= "pop_pro" width="800">
 
-> Rose, A. N., McKee, J. J., Sims, K. M., Bright, E. A., Reith, A. E., & Urban,
-> M. L. (2020). _LandScan 2019_. Oak Ridge National Laboratory.
-> https://landscan.ornl.gov/
+>
+> Kasane, Botswana — statistics 2023
+https://zhujiworld.com/bw/515662-kasane/
+Accessed: 2023-11-21
 
 We can distill a **goal** from this intent for *socioeconomic activities*.
 As shown in the Chobe District Population Projection by 2035 chart above, the two
