@@ -36,7 +36,7 @@ The following datasets are used in the landscape condition model:
 
 ## 3. Instruction
 
-![marketmodelmap](../../../img/qgm/model/Market_Graphic.svg)
+![marketmodelmap](../../../img/qgm/model/Market.svg)
 
 1. Locate _Large\_Market.shp_, _Medium\_Market.shp_, _Small\_Market.shp_ and
    _PND\_IDUs.shp_ in the **_Browser Panel_** and add them to
