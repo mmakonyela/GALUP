@@ -97,7 +97,7 @@ The most critical component of a land-use plan is that it must
 In this example, we will use the Chobe District and look at the
 projected population in year 2035.
 
-<img src="../../../img/plot/ChobePop.svg" alt= "pop_pro" width="800">
+<img src="../../../img/plot/ChobePop.png" alt= "pop_pro" width="800">
 
 > Rose, A. N., McKee, J. J., Sims, K. M., Bright, E. A., Reith, A. E., & Urban,
 > M. L. (2020). _LandScan 2019_. Oak Ridge National Laboratory.
