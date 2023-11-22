@@ -44,4 +44,4 @@ The following datasets are used in this exercises:
 - Upon completion, the map you got should look similar to this pdf
   [here](../pdf_maps/M2E2_SelLoc.pdf).
 - Please go back to
-  [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to complete the fourth exercise.
+  [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to complete the third exercise.
