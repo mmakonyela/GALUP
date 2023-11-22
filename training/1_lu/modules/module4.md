@@ -100,8 +100,8 @@ projected population in year 2035.
 <img src="../../../img/plot/ChobePop.png" alt= "pop_pro" width="800">
 
 >
-> Kasane, Botswana — statistics 2023
-https://zhujiworld.com/bw/515662-kasane/
+> Chobe, Botswana — statistics 2023
+https://zhujiworld.com/bw/515662-chobe/
 Accessed: 2023-11-21
 
 We can distill a **goal** from this intent for *socioeconomic activities*.
