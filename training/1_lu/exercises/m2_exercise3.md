@@ -78,7 +78,7 @@ You should use the following data to finish this exercise:
 - Upon completion, the map you got should look similar to this pdf
   [here](../pdf_maps/M2E3_ClayCon.pdf)
 - Now you have completed all exercises. Please go back to
-  [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to turn in them.
+  [Module 2](https://github.com/mogaetkpp/GALUP/blob/master/training/1_lu/modules/module2.md#7-exercises-and-post-training-survey) to turn them in.
 
 ## 6.Reference
 
